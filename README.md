@@ -1,6 +1,6 @@
 # Winning a betting pool of the FIFA World Cup using Reinforcement Learning
 
-(![world cup]https://api.fifa.com/api/v1/picture/tournaments-sq-4/254645_w)
+![world cup](https://api.fifa.com/api/v1/picture/tournaments-sq-4/254645_w)
 It's world cup season and you can feel it everywhere.
 I have a bittersweet feeling about it. I'm still crushed about my team not qualifying for the best competition in professional sports, but I love watching intense football nonetheless.
 
