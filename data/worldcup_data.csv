@@ -1,0 +1,837 @@
+cup,result,group,date,matchnum,away,home,home_res,away_res,home_win,away_win,match,home_victories,away_victories,home_loss,away_loss,home_losses,away_losses,home_goals,away_goals,home_goals_against,away_goals_against
+2014 FIFA World Cup Brazil™,3-1,Group A,12 Jun 2014,Match 1,Croatia,Brazil,3,1,1,0,1,0,0,0,1,0,0,0,0,0,0
+2014 FIFA World Cup Brazil™,1-0,Group A,13 Jun 2014,Match 2,Cameroon,Mexico,1,0,1,0,2,0,0,0,1,0,0,0,0,0,0
+2014 FIFA World Cup Brazil™,1-5,Group B,13 Jun 2014,Match 3,Netherlands,Spain,1,5,0,1,3,0,0,1,0,0,0,0,0,0,0
+2014 FIFA World Cup Brazil™,3-1,Group B,13 Jun 2014,Match 4,Australia,Chile,3,1,1,0,4,0,0,0,1,0,0,0,0,0,0
+2014 FIFA World Cup Brazil™,3-0,Group C,14 Jun 2014,Match 5,Greece,Colombia,3,0,1,0,5,0,0,0,1,0,0,0,0,0,0
+2014 FIFA World Cup Brazil™,1-3,Group D,14 Jun 2014,Match 7,Costa Rica,Uruguay,1,3,0,1,7,0,0,1,0,0,0,0,0,0,0
+2010 FIFA World Cup South Africa™,1-1,Group A,11 Jun 2010,Match 1,Mexico,South Africa,1,1,0,0,1,0,0,0,0,0,0,0,0,0,0
+2014 FIFA World Cup Brazil™,1-2,Group D,14 Jun 2014,Match 8,Italy,England,1,2,0,1,8,0,0,1,0,0,0,0,0,0,0
+2014 FIFA World Cup Brazil™,2-1,Group C,14 Jun 2014,Match 6,Japan,Côte d'Ivoire,2,1,1,0,6,0,0,0,1,0,0,0,0,0,0
+2014 FIFA World Cup Brazil™,2-1,Group E,15 Jun 2014,Match 9,Ecuador,Switzerland,2,1,1,0,9,0,0,0,1,0,0,0,0,0,0
+2014 FIFA World Cup Brazil™,3-0,Group E,15 Jun 2014,Match 10,Honduras,France,3,0,1,0,10,0,0,0,1,0,0,0,0,0,0
+2010 FIFA World Cup South Africa™,0-0,Group A,11 Jun 2010,Match 2,France,Uruguay,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0
+2010 FIFA World Cup South Africa™,2-0,Group B,12 Jun 2010,Match 4,Greece,Korea Republic,2,0,1,0,4,0,0,0,1,0,0,0,0,0,0
+2010 FIFA World Cup South Africa™,1-0,Group B,12 Jun 2010,Match 3,Nigeria,Argentina,1,0,1,0,3,0,0,0,1,0,0,0,0,0,0
+2010 FIFA World Cup South Africa™,1-1,Group C,12 Jun 2010,Match 5,USA,England,1,1,0,0,5,0,0,0,0,0,0,0,0,0,0
+2010 FIFA World Cup South Africa™,0-1,Group C,13 Jun 2010,Match 6,Slovenia,Algeria,0,1,0,1,6,0,0,1,0,0,0,0,0,0,0
+2014 FIFA World Cup Brazil™,2-1,Group F,15 Jun 2014,Match 11,Bosnia and Herzegovina,Argentina,2,1,1,0,11,0,0,0,1,0,0,0,0,0,0
+2014 FIFA World Cup Brazil™,4-0,Group G,16 Jun 2014,Match 13,Portugal,Germany,4,0,1,0,13,0,0,0,1,0,0,0,0,0,0
+2014 FIFA World Cup Brazil™,0-0,Group F,16 Jun 2014,Match 12,Nigeria,IR Iran,0,0,0,0,12,0,0,0,0,0,0,0,0,0,0
+2014 FIFA World Cup Brazil™,1-2,Group G,16 Jun 2014,Match 14,USA,Ghana,1,2,0,1,14,0,0,1,0,0,0,0,0,0,0
+2014 FIFA World Cup Brazil™,2-1,Group H,17 Jun 2014,Match 15,Algeria,Belgium,2,1,1,0,15,0,0,0,1,0,0,0,0,0,0
+2010 FIFA World Cup South Africa™,0-1,Group D,13 Jun 2010,Match 8,Ghana,Serbia,0,1,0,1,8,0,0,1,0,0,0,0,0,0,0
+2010 FIFA World Cup South Africa™,4-0,Group D,13 Jun 2010,Match 7,Australia,Germany,4,0,1,0,7,0,0,0,1,0,0,0,0,0,0
+2010 FIFA World Cup South Africa™,2-0,Group E,14 Jun 2010,Match 9,Denmark,Netherlands,2,0,1,0,9,0,0,0,1,0,0,0,0,0,0
+2010 FIFA World Cup South Africa™,1-0,Group E,14 Jun 2010,Match 10,Cameroon,Japan,1,0,1,0,10,0,0,0,1,0,0,0,0,0,0
+2014 FIFA World Cup Brazil™,0-0,Group A,17 Jun 2014,Match 17,Mexico,Brazil,0,0,0,0,17,1,1,0,0,0,0,3,1,3,0
+2014 FIFA World Cup Brazil™,1-1,Group H,17 Jun 2014,Match 16,Korea Republic,Russia,1,1,0,0,16,0,0,0,0,0,0,0,0,0,0
+2014 FIFA World Cup Brazil™,2-3,Group B,18 Jun 2014,Match 20,Netherlands,Australia,2,3,0,1,20,0,1,1,0,1,0,1,5,1,5
+2014 FIFA World Cup Brazil™,0-2,Group B,18 Jun 2014,Match 19,Chile,Spain,0,2,0,1,19,0,1,1,0,1,0,1,3,1,3
+2014 FIFA World Cup Brazil™,0-4,Group A,18 Jun 2014,Match 18,Croatia,Cameroon,0,4,0,1,18,0,0,1,0,1,1,0,1,0,1
+2010 FIFA World Cup South Africa™,1-1,Group F,14 Jun 2010,Match 11,Paraguay,Italy,1,1,0,0,11,0,0,0,0,0,0,0,0,0,0
+2010 FIFA World Cup South Africa™,1-1,Group F,15 Jun 2010,Match 12,Slovakia,New Zealand,1,1,0,0,12,0,0,0,0,0,0,0,0,0,0
+2010 FIFA World Cup South Africa™,0-0,Group G,15 Jun 2010,Match 13,Portugal,Côte d'Ivoire,0,0,0,0,13,0,0,0,0,0,0,0,0,0,0
+2010 FIFA World Cup South Africa™,2-1,Group G,15 Jun 2010,Match 14,Korea DPR,Brazil,2,1,1,0,14,0,0,0,1,0,0,0,0,0,0
+2010 FIFA World Cup South Africa™,0-1,Group H,16 Jun 2010,Match 15,Chile,Honduras,0,1,0,1,15,0,0,1,0,0,0,0,0,0,0
+2014 FIFA World Cup Brazil™,2-1,Group C,19 Jun 2014,Match 21,Côte d'Ivoire,Colombia,2,1,1,0,21,1,1,0,1,0,0,3,2,0,2
+2014 FIFA World Cup Brazil™,2-1,Group D,19 Jun 2014,Match 23,England,Uruguay,2,1,1,0,23,0,0,0,1,1,1,1,1,1,1
+2014 FIFA World Cup Brazil™,0-0,Group C,19 Jun 2014,Match 22,Greece,Japan,0,0,0,0,22,0,0,0,0,1,1,1,0,1,0
+2014 FIFA World Cup Brazil™,0-1,Group D,20 Jun 2014,Match 24,Costa Rica,Italy,0,1,0,1,24,1,1,1,0,0,0,2,3,2,3
+2010 FIFA World Cup South Africa™,0-1,Group H,16 Jun 2010,Match 16,Switzerland,Spain,0,1,0,1,16,0,0,1,0,0,0,0,0,0,0
+2010 FIFA World Cup South Africa™,0-3,Group A,16 Jun 2010,Match 17,Uruguay,South Africa,0,3,0,1,17,0,0,1,0,0,0,1,0,1,0
+2010 FIFA World Cup South Africa™,4-1,Group B,17 Jun 2010,Match 20,Korea Republic,Argentina,4,1,1,0,20,1,1,0,1,0,0,1,2,0,0
+2010 FIFA World Cup South Africa™,2-1,Group B,17 Jun 2010,Match 19,Nigeria,Greece,2,1,1,0,19,0,0,0,1,1,1,0,0,0,0
+2014 FIFA World Cup Brazil™,2-5,Group E,20 Jun 2014,Match 25,France,Switzerland,2,5,0,1,25,1,1,1,0,0,0,2,3,2,0
+2014 FIFA World Cup Brazil™,1-2,Group E,20 Jun 2014,Match 26,Ecuador,Honduras,1,2,0,1,26,0,0,1,0,1,1,0,1,0,1
+2014 FIFA World Cup Brazil™,1-0,Group F,21 Jun 2014,Match 27,IR Iran,Argentina,1,0,1,0,27,1,0,0,1,0,0,2,0,2,0
+2014 FIFA World Cup Brazil™,2-2,Group G,21 Jun 2014,Match 29,Ghana,Germany,2,2,0,0,29,1,0,0,0,0,1,4,1,0,1
+2014 FIFA World Cup Brazil™,1-0,Group F,21 Jun 2014,Match 28,Bosnia and Herzegovina,Nigeria,1,0,1,0,28,0,0,0,1,0,1,0,1,0,1
+2010 FIFA World Cup South Africa™,0-2,Group A,17 Jun 2010,Match 18,Mexico,France,0,2,0,1,18,0,0,1,0,0,0,0,1,0,1
+2010 FIFA World Cup South Africa™,0-1,Group D,18 Jun 2010,Match 21,Serbia,Germany,0,1,0,1,21,1,0,1,0,0,1,4,0,0,0
+2010 FIFA World Cup South Africa™,2-2,Group C,18 Jun 2010,Match 22,USA,Slovenia,2,2,0,0,22,1,0,0,0,0,0,1,1,0,1
+2010 FIFA World Cup South Africa™,0-0,Group C,18 Jun 2010,Match 23,Algeria,England,0,0,0,0,23,0,0,0,0,0,1,1,0,1,0
+2010 FIFA World Cup South Africa™,1-0,Group E,19 Jun 2010,Match 25,Japan,Netherlands,1,0,1,0,25,1,1,0,1,0,0,2,1,0,0
+2014 FIFA World Cup Brazil™,1-0,Group H,22 Jun 2014,Match 31,Russia,Belgium,1,0,1,0,31,1,0,0,1,0,0,2,1,2,1
+2014 FIFA World Cup Brazil™,2-4,Group H,22 Jun 2014,Match 32,Algeria,Korea Republic,2,4,0,1,32,0,0,1,0,0,1,1,1,1,1
+2014 FIFA World Cup Brazil™,2-2,Group G,22 Jun 2014,Match 30,Portugal,USA,2,2,0,0,30,1,0,0,0,0,1,2,0,2,0
+2014 FIFA World Cup Brazil™,0-3,Group B,23 Jun 2014,Match 35,Spain,Australia,0,3,0,1,35,0,0,1,0,2,2,3,1,3,1
+2010 FIFA World Cup South Africa™,1-1,Group D,19 Jun 2010,Match 24,Australia,Ghana,1,1,0,0,24,1,0,0,0,0,1,1,0,0,0
+2010 FIFA World Cup South Africa™,1-2,Group E,19 Jun 2010,Match 26,Denmark,Cameroon,1,2,0,1,26,0,0,1,0,1,1,0,0,0,0
+2010 FIFA World Cup South Africa™,0-2,Group F,20 Jun 2010,Match 27,Paraguay,Slovakia,0,2,0,1,27,0,0,1,0,0,0,1,1,1,1
+2010 FIFA World Cup South Africa™,1-1,Group F,20 Jun 2010,Match 28,New Zealand,Italy,1,1,0,0,28,0,0,0,0,0,0,1,1,1,1
+2010 FIFA World Cup South Africa™,3-1,Group G,20 Jun 2010,Match 29,Côte d'Ivoire,Brazil,3,1,1,0,29,1,0,0,1,0,0,2,0,2,0
+2014 FIFA World Cup Brazil™,2-0,Group B,23 Jun 2014,Match 36,Chile,Netherlands,2,0,1,0,36,2,2,0,1,0,0,8,5,8,3
+2014 FIFA World Cup Brazil™,1-4,Group A,23 Jun 2014,Match 33,Brazil,Cameroon,1,4,0,1,33,0,1,1,0,2,0,0,3,0,3
+2014 FIFA World Cup Brazil™,1-3,Group A,23 Jun 2014,Match 34,Mexico,Croatia,1,3,0,1,34,1,1,1,0,1,0,5,1,1,0
+2014 FIFA World Cup Brazil™,0-1,Group D,24 Jun 2014,Match 39,Uruguay,Italy,0,1,0,1,39,1,1,1,0,1,1,2,3,2,3
+2014 FIFA World Cup Brazil™,0-0,Group D,24 Jun 2014,Match 40,England,Costa Rica,0,0,0,0,40,2,0,0,0,0,2,4,2,3,2
+2010 FIFA World Cup South Africa™,7-0,Group G,21 Jun 2010,Match 30,Korea DPR,Portugal,7,0,1,0,30,0,0,0,1,0,1,0,1,0,1
+2010 FIFA World Cup South Africa™,1-0,Group H,21 Jun 2010,Match 31,Switzerland,Chile,1,0,1,0,31,1,1,0,1,0,0,1,1,0,0
+2010 FIFA World Cup South Africa™,2-0,Group H,21 Jun 2010,Match 32,Honduras,Spain,2,0,1,0,32,0,0,0,1,1,1,0,0,0,0
+2010 FIFA World Cup South Africa™,0-1,Group A,22 Jun 2010,Match 33,Uruguay,Mexico,0,1,0,1,33,1,1,1,0,0,0,3,3,1,0
+2014 FIFA World Cup Brazil™,1-4,Group C,24 Jun 2014,Match 37,Colombia,Japan,1,4,0,1,37,0,2,1,0,1,0,1,5,1,2
+2014 FIFA World Cup Brazil™,2-1,Group C,24 Jun 2014,Match 38,Côte d'Ivoire,Greece,2,1,1,0,38,0,1,0,1,1,1,0,3,0,3
+2014 FIFA World Cup Brazil™,2-3,Group F,25 Jun 2014,Match 43,Argentina,Nigeria,2,3,0,1,43,1,2,1,0,0,0,1,3,0,2
+2014 FIFA World Cup Brazil™,3-1,Group F,25 Jun 2014,Match 44,IR Iran,Bosnia and Herzegovina,3,1,1,0,44,0,0,0,1,2,1,1,0,1,0
+2010 FIFA World Cup South Africa™,1-2,Group A,22 Jun 2010,Match 34,South Africa,France,1,2,0,1,34,0,0,1,0,1,1,0,1,0,1
+2010 FIFA World Cup South Africa™,2-2,Group B,22 Jun 2010,Match 35,Korea Republic,Nigeria,2,2,0,0,35,0,1,0,0,2,1,1,3,1,1
+2010 FIFA World Cup South Africa™,0-2,Group B,22 Jun 2010,Match 36,Argentina,Greece,0,2,0,1,36,1,2,1,0,1,0,2,5,2,4
+2010 FIFA World Cup South Africa™,0-1,Group C,23 Jun 2010,Match 37,England,Slovenia,0,1,0,1,37,1,0,1,0,0,0,3,1,2,1
+2010 FIFA World Cup South Africa™,1-0,Group C,23 Jun 2010,Match 38,Algeria,USA,1,0,1,0,38,0,0,0,1,0,1,3,0,3,0
+2014 FIFA World Cup Brazil™,0-3,Group E,25 Jun 2014,Match 41,Switzerland,Honduras,0,3,0,1,41,0,1,1,0,2,1,1,4,1,4
+2014 FIFA World Cup Brazil™,0-0,Group E,25 Jun 2014,Match 42,France,Ecuador,0,0,0,0,42,1,2,0,0,1,0,3,8,3,5
+2014 FIFA World Cup Brazil™,0-1,Group G,26 Jun 2014,Match 45,Germany,USA,0,1,0,1,45,1,1,1,0,0,0,4,6,4,2
+2014 FIFA World Cup Brazil™,2-1,Group G,26 Jun 2014,Match 46,Ghana,Portugal,2,1,1,0,46,0,0,0,1,1,1,2,3,2,3
+2010 FIFA World Cup South Africa™,0-1,Group D,23 Jun 2010,Match 39,Germany,Ghana,0,1,0,1,39,1,1,1,0,0,1,2,4,1,0
+2010 FIFA World Cup South Africa™,2-1,Group D,23 Jun 2010,Match 40,Serbia,Australia,2,1,1,0,40,0,1,0,1,1,1,1,1,1,0
+2010 FIFA World Cup South Africa™,3-2,Group F,24 Jun 2010,Match 41,Italy,Slovakia,3,2,1,0,41,0,0,0,1,1,0,1,2,1,2
+2010 FIFA World Cup South Africa™,0-0,Group F,24 Jun 2010,Match 42,New Zealand,Paraguay,0,0,0,0,42,1,0,0,0,0,0,3,2,1,2
+2014 FIFA World Cup Brazil™,0-1,Group H,26 Jun 2014,Match 47,Belgium,Korea Republic,0,1,0,1,47,0,2,1,0,1,0,3,3,3,2
+2014 FIFA World Cup Brazil™,1-1,Group H,26 Jun 2014,Match 48,Russia,Algeria,1,1,0,0,48,1,0,0,0,1,1,5,1,5,1
+2014 FIFA World Cup Brazil™,1-1,Round of 16,28 Jun 2014,Match 49,Chile,Brazil,1,1,0,0,49,2,2,0,0,0,1,7,5,7,3
+2014 FIFA World Cup Brazil™,2-0,Round of 16,28 Jun 2014,Match 50,Uruguay,Colombia,2,0,1,0,50,3,2,0,1,0,1,9,4,6,3
+2014 FIFA World Cup Brazil™,2-1,Round of 16,29 Jun 2014,Match 51,Mexico,Netherlands,2,1,1,0,51,3,2,0,1,0,0,10,4,8,3
+2010 FIFA World Cup South Africa™,1-3,Group E,24 Jun 2010,Match 43,Japan,Denmark,1,3,0,1,43,1,1,1,0,1,1,2,1,2,0
+2010 FIFA World Cup South Africa™,1-2,Group E,24 Jun 2010,Match 44,Netherlands,Cameroon,1,2,0,1,44,0,2,1,0,2,0,1,3,1,0
+2010 FIFA World Cup South Africa™,0-0,Group G,25 Jun 2010,Match 45,Brazil,Portugal,0,0,0,0,45,1,2,0,0,0,0,7,5,0,5
+2010 FIFA World Cup South Africa™,0-3,Group G,25 Jun 2010,Match 46,Côte d'Ivoire,Korea DPR,0,3,0,1,46,0,0,1,0,2,1,1,1,1,1
+2014 FIFA World Cup Brazil™,1-1,Round of 16,29 Jun 2014,Match 52,Greece,Costa Rica,1,1,0,0,52,2,1,0,0,0,1,4,2,3,2
+2014 FIFA World Cup Brazil™,2-0,Round of 16,30 Jun 2014,Match 53,Nigeria,France,2,0,1,0,53,2,1,0,1,0,1,8,3,5,2
+2014 FIFA World Cup Brazil™,2-1,Round of 16,30 Jun 2014,Match 54,Algeria,Germany,2,1,1,0,54,2,1,0,1,0,1,7,6,2,6
+2014 FIFA World Cup Brazil™,1-0,Round of 16,01 Jul 2014,Match 55,Switzerland,Argentina,1,0,1,0,55,3,2,0,1,0,1,6,7,5,4
+2010 FIFA World Cup South Africa™,1-2,Group H,25 Jun 2010,Match 47,Spain,Chile,1,2,0,1,47,2,1,1,0,0,1,2,2,0,0
+2010 FIFA World Cup South Africa™,0-0,Group H,25 Jun 2010,Match 48,Honduras,Switzerland,0,0,0,0,48,1,0,0,0,1,2,1,0,0,0
+2010 FIFA World Cup South Africa™,2-1,Round of 16,26 Jun 2010,Match 49,Korea Republic,Uruguay,2,1,1,0,49,2,1,0,1,0,1,4,5,0,3
+2010 FIFA World Cup South Africa™,1-2,Round of 16,26 Jun 2010,Match 50,Ghana,USA,1,2,0,1,50,1,1,1,0,0,1,4,2,3,1
+2014 FIFA World Cup Brazil™,2-1,Round of 16,01 Jul 2014,Match 56,USA,Belgium,2,1,1,0,56,3,1,0,1,0,1,4,4,2,4
+2014 FIFA World Cup Brazil™,0-1,Quarter-finals,04 Jul 2014,Match 58,Germany,France,0,1,0,1,58,3,3,1,0,0,0,10,9,5,4
+2014 FIFA World Cup Brazil™,2-1,Quarter-finals,04 Jul 2014,Match 57,Colombia,Brazil,2,1,1,0,57,2,4,0,1,0,0,8,11,8,6
+2014 FIFA World Cup Brazil™,1-0,Quarter-finals,05 Jul 2014,Match 60,Belgium,Argentina,1,0,1,0,60,4,4,0,1,0,0,7,6,5,4
+2010 FIFA World Cup South Africa™,4-1,Round of 16,27 Jun 2010,Match 51,England,Germany,4,1,1,0,51,2,1,0,1,1,0,5,2,0,1
+2010 FIFA World Cup South Africa™,3-1,Round of 16,27 Jun 2010,Match 52,Mexico,Argentina,3,1,1,0,52,3,1,0,1,0,1,7,3,4,1
+2010 FIFA World Cup South Africa™,2-1,Round of 16,28 Jun 2010,Match 53,Slovakia,Netherlands,2,1,1,0,53,3,1,0,1,0,1,5,4,2,4
+2010 FIFA World Cup South Africa™,3-0,Round of 16,28 Jun 2010,Match 54,Chile,Brazil,3,0,1,0,54,2,2,0,1,0,1,5,3,5,1
+2010 FIFA World Cup South Africa™,0-0,Round of 16,29 Jun 2010,Match 55,Japan,Paraguay,0,0,0,0,55,1,2,0,0,0,1,3,4,1,3
+2014 FIFA World Cup Brazil™,0-0,Quarter-finals,05 Jul 2014,Match 59,Costa Rica,Netherlands,0,0,0,0,59,4,2,0,0,0,0,12,5,10,4
+2014 FIFA World Cup Brazil™,1-7,Semi-finals,08 Jul 2014,Match 61,Germany,Brazil,1,7,0,1,61,3,4,1,0,0,0,10,10,10,4
+2014 FIFA World Cup Brazil™,0-0,Semi-finals,09 Jul 2014,Match 62,Argentina,Netherlands,0,0,0,0,62,4,5,0,0,0,0,12,8,10,5
+2014 FIFA World Cup Brazil™,0-3,Play-off for third place,12 Jul 2014,Match 63,Netherlands,Brazil,0,3,0,1,63,3,4,1,0,1,0,11,12,11,10
+2010 FIFA World Cup South Africa™,1-0,Round of 16,29 Jun 2010,Match 56,Portugal,Spain,1,0,1,0,56,2,1,0,1,1,0,4,7,2,0
+2010 FIFA World Cup South Africa™,2-1,Quarter-finals,02 Jul 2010,Match 57,Brazil,Netherlands,2,1,1,0,57,4,3,0,1,0,0,7,8,4,5
+2010 FIFA World Cup South Africa™,1-1,Quarter-finals,02 Jul 2010,Match 58,Ghana,Uruguay,1,1,0,0,58,3,2,0,0,0,1,6,4,2,3
+2010 FIFA World Cup South Africa™,0-4,Quarter-finals,03 Jul 2010,Match 59,Germany,Argentina,0,4,0,1,59,4,3,1,0,0,1,10,9,7,4
+2014 FIFA World Cup Brazil™,1-0,Final,13 Jul 2014,Match 64,Argentina,Germany,1,0,1,0,64,5,5,0,1,0,0,17,8,11,5
+2010 FIFA World Cup South Africa™,0-1,Quarter-finals,03 Jul 2010,Match 60,Spain,Paraguay,0,1,0,1,60,1,3,1,0,0,1,3,5,1,2
+2010 FIFA World Cup South Africa™,2-3,Semi-finals,06 Jul 2010,Match 61,Netherlands,Uruguay,2,3,0,1,61,3,5,1,0,0,0,7,9,3,6
+2010 FIFA World Cup South Africa™,0-1,Semi-finals,07 Jul 2010,Match 62,Spain,Germany,0,1,0,1,62,4,4,1,0,1,1,13,6,4,2
+2010 FIFA World Cup South Africa™,2-3,Match for third place,10 Jul 2010,Match 63,Germany,Uruguay,2,3,0,1,63,3,4,1,0,1,2,9,13,5,4
+2010 FIFA World Cup South Africa™,0-1,Final,11 Jul 2010,Match 64,Spain,Netherlands,0,1,0,1,64,6,5,1,0,0,1,12,7,9,2
+1990 FIFA World Cup Italy ™,0-1,Group B,08 Jun 1990,Match 1,Cameroon,Argentina,0,1,0,1,1,0,0,1,0,0,0,0,0,0,0
+1990 FIFA World Cup Italy ™,0-2,Group B,09 Jun 1990,Match 2,Romania,Soviet Union,0,2,0,1,2,0,0,1,0,0,0,0,0,0,0
+1990 FIFA World Cup Italy ™,0-2,Group D,09 Jun 1990,Match 4,Colombia,United Arab Emirates,0,2,0,1,4,0,0,1,0,0,0,0,0,0,0
+1990 FIFA World Cup Italy ™,1-0,Group A,09 Jun 1990,Match 3,Austria,Italy,1,0,1,0,3,0,0,0,1,0,0,0,0,0,0
+1990 FIFA World Cup Italy ™,1-5,Group A,10 Jun 1990,Match 5,Czechoslovakia,USA,1,5,0,1,5,0,0,1,0,0,0,0,0,0,0
+1990 FIFA World Cup Italy ™,2-1,Group C,10 Jun 1990,Match 6,Sweden,Brazil,2,1,1,0,6,0,0,0,1,0,0,0,0,0,0
+1994 FIFA World Cup USA ™,2-2,Group C,17 Jun 1994,Match 2,Korea Republic,Spain,2,2,0,0,2,0,0,0,0,0,0,0,0,0,0
+1978 FIFA World Cup Argentina ™,0-0,Group 2,01 Jun 1978,Match 1,Poland,Germany FR,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0
+1990 FIFA World Cup Italy ™,4-1,Group D,10 Jun 1990,Match 7,Yugoslavia,Germany FR,4,1,1,0,7,0,0,0,1,0,0,0,0,0,0
+1990 FIFA World Cup Italy ™,1-0,Group C,11 Jun 1990,Match 8,Scotland,Costa Rica,1,0,1,0,8,0,0,0,1,0,0,0,0,0,0
+1990 FIFA World Cup Italy ™,1-1,Group F,11 Jun 1990,Match 9,Republic of Ireland,England,1,1,0,0,9,0,0,0,0,0,0,0,0,0,0
+1990 FIFA World Cup Italy ™,2-0,Group E,12 Jun 1990,Match 10,Korea Republic,Belgium,2,0,1,0,10,0,0,0,1,0,0,0,0,0,0
+1994 FIFA World Cup USA ™,1-0,Group C,17 Jun 1994,Match 1,Bolivia,Germany,1,0,1,0,1,0,0,0,1,0,0,0,0,0,0
+1994 FIFA World Cup USA ™,1-1,Group A,18 Jun 1994,Match 3,Switzerland,USA,1,1,0,0,3,0,0,0,0,0,0,0,0,0,0
+1994 FIFA World Cup USA ™,0-1,Group E,18 Jun 1994,Match 4,Republic of Ireland,Italy,0,1,0,1,4,0,0,1,0,0,0,0,0,0,0
+1994 FIFA World Cup USA ™,1-3,Group A,18 Jun 1994,Match 5,Romania,Colombia,1,3,0,1,5,0,0,1,0,0,0,0,0,0,0
+1994 FIFA World Cup USA ™,1-0,Group F,19 Jun 1994,Match 6,Morocco,Belgium,1,0,1,0,6,0,0,0,1,0,0,0,0,0,0
+1978 FIFA World Cup Argentina ™,2-1,Group 1,02 Jun 1978,Match 3,France,Italy,2,1,1,0,3,0,0,0,1,0,0,0,0,0,0
+1978 FIFA World Cup Argentina ™,3-1,Group 2,02 Jun 1978,Match 4,Mexico,Tunisia,3,1,1,0,4,0,0,0,1,0,0,0,0,0,0
+1978 FIFA World Cup Argentina ™,2-1,Group 1,02 Jun 1978,Match 2,Hungary,Argentina,2,1,1,0,2,0,0,0,1,0,0,0,0,0,0
+1978 FIFA World Cup Argentina ™,1-1,Group 3,03 Jun 1978,Match 6,Brazil,Sweden,1,1,0,0,6,0,0,0,0,0,0,0,0,0,0
+2006 FIFA World Cup Germany ™,4-2,Group A,09 Jun 2006,Match 1,Costa Rica,Germany,4,2,1,0,1,0,0,0,1,0,0,0,0,0,0
+1990 FIFA World Cup Italy ™,1-1,Group F,12 Jun 1990,Match 11,Egypt,Netherlands,1,1,0,0,11,0,0,0,0,0,0,0,0,0,0
+1990 FIFA World Cup Italy ™,0-0,Group E,13 Jun 1990,Match 12,Spain,Uruguay,0,0,0,0,12,0,0,0,0,0,0,0,0,0,0
+1990 FIFA World Cup Italy ™,2-0,Group B,13 Jun 1990,Match 13,Soviet Union,Argentina,2,0,1,0,13,0,0,0,1,1,1,0,0,0,0
+1990 FIFA World Cup Italy ™,2-1,Group B,14 Jun 1990,Match 16,Romania,Cameroon,2,1,1,0,16,1,1,0,1,0,0,1,2,0,0
+1990 FIFA World Cup Italy ™,1-0,Group D,14 Jun 1990,Match 14,Colombia,Yugoslavia,1,0,1,0,14,0,1,0,1,1,0,1,2,1,0
+2002 FIFA World Cup Korea/Japan ™,0-1,Group A,31 May 2002,Match 1,Senegal,France,0,1,0,1,1,0,0,1,0,0,0,0,0,0,0
+1994 FIFA World Cup USA ™,1-0,Group E,19 Jun 1994,Match 7,Mexico,Norway,1,0,1,0,7,0,0,0,1,0,0,0,0,0,0
+1994 FIFA World Cup USA ™,2-2,Group B,19 Jun 1994,Match 8,Sweden,Cameroon,2,2,0,0,8,0,0,0,0,0,0,0,0,0,0
+1994 FIFA World Cup USA ™,2-1,Group F,20 Jun 1994,Match 10,Saudi Arabia,Netherlands,2,1,1,0,10,0,0,0,1,0,0,0,0,0,0
+1994 FIFA World Cup USA ™,2-0,Group B,20 Jun 1994,Match 9,Russia,Brazil,2,0,1,0,9,0,0,0,1,0,0,0,0,0,0
+1994 FIFA World Cup USA ™,4-0,Group D,21 Jun 1994,Match 11,Greece,Argentina,4,0,1,0,11,0,0,0,1,0,0,0,0,0,0
+1978 FIFA World Cup Argentina ™,2-1,Group 3,03 Jun 1978,Match 5,Spain,Austria,2,1,1,0,5,0,0,0,1,0,0,0,0,0,0
+1978 FIFA World Cup Argentina ™,3-1,Group 4,03 Jun 1978,Match 7,Scotland,Peru,3,1,1,0,7,0,0,0,1,0,0,0,0,0,0
+1978 FIFA World Cup Argentina ™,3-0,Group 4,03 Jun 1978,Match 8,IR Iran,Netherlands,3,0,1,0,8,0,0,0,1,0,0,0,0,0,0
+1978 FIFA World Cup Argentina ™,3-1,Group 1,06 Jun 1978,Match 10,Hungary,Italy,3,1,1,0,10,1,0,0,1,0,1,2,1,2,1
+1978 FIFA World Cup Argentina ™,1-0,Group 2,06 Jun 1978,Match 11,Tunisia,Poland,1,0,1,0,11,0,1,0,1,0,0,0,3,0,3
+2006 FIFA World Cup Germany ™,0-2,Group A,09 Jun 2006,Match 2,Ecuador,Poland,0,2,0,1,2,0,0,1,0,0,0,0,0,0,0
+2006 FIFA World Cup Germany ™,1-0,Group B,10 Jun 2006,Match 3,Paraguay,England,1,0,1,0,3,0,0,0,1,0,0,0,0,0,0
+2006 FIFA World Cup Germany ™,0-0,Group B,10 Jun 2006,Match 4,Sweden,Trinidad and Tobago,0,0,0,0,4,0,0,0,0,0,0,0,0,0,0
+2006 FIFA World Cup Germany ™,2-1,Group C,10 Jun 2006,Match 5,Côte d'Ivoire,Argentina,2,1,1,0,5,0,0,0,1,0,0,0,0,0,0
+2006 FIFA World Cup Germany ™,0-1,Group C,11 Jun 2006,Match 6,Netherlands,Serbia and Montenegro,0,1,0,1,6,0,0,1,0,0,0,0,0,0,0
+1990 FIFA World Cup Italy ™,1-0,Group A,14 Jun 1990,Match 15,USA,Italy,1,0,1,0,15,1,0,0,1,0,1,1,1,0,1
+1990 FIFA World Cup Italy ™,0-1,Group A,15 Jun 1990,Match 17,Czechoslovakia,Austria,0,1,0,1,17,0,1,1,0,1,0,0,5,0,5
+1990 FIFA World Cup Italy ™,5-1,Group D,15 Jun 1990,Match 18,United Arab Emirates,Germany FR,5,1,1,0,18,1,0,0,1,0,1,4,0,4,0
+1990 FIFA World Cup Italy ™,1-0,Group C,16 Jun 1990,Match 19,Costa Rica,Brazil,1,0,1,0,19,1,1,0,1,0,0,2,1,2,0
+2002 FIFA World Cup Korea/Japan ™,1-2,Group A,01 Jun 2002,Match 3,Denmark,Uruguay,1,2,0,1,3,0,0,1,0,0,0,0,0,0,0
+2002 FIFA World Cup Korea/Japan ™,1-1,Group E,01 Jun 2002,Match 2,Cameroon,Republic of Ireland,1,1,0,0,2,0,0,0,0,0,0,0,0,0,0
+2002 FIFA World Cup Korea/Japan ™,8-0,Group E,01 Jun 2002,Match 4,Saudi Arabia,Germany,8,0,1,0,4,0,0,0,1,0,0,0,0,0,0
+2002 FIFA World Cup Korea/Japan ™,1-0,Group F,02 Jun 2002,Match 7,Nigeria,Argentina,1,0,1,0,7,0,0,0,1,0,0,0,0,0,0
+1994 FIFA World Cup USA ™,3-0,Group D,21 Jun 1994,Match 13,Bulgaria,Nigeria,3,0,1,0,13,0,0,0,1,0,0,0,0,0,0
+1994 FIFA World Cup USA ™,1-1,Group C,21 Jun 1994,Match 12,Spain,Germany,1,1,0,0,12,1,0,0,0,0,0,1,2,0,2
+1994 FIFA World Cup USA ™,1-4,Group A,22 Jun 1994,Match 14,Switzerland,Romania,1,4,0,1,14,1,0,1,0,0,0,3,1,3,1
+1994 FIFA World Cup USA ™,2-1,Group A,22 Jun 1994,Match 15,Colombia,USA,2,1,1,0,15,0,0,0,1,0,1,1,1,1,1
+1994 FIFA World Cup USA ™,1-0,Group E,23 Jun 1994,Match 16,Norway,Italy,1,0,1,0,16,0,1,0,1,1,0,0,1,0,0
+1998 FIFA World Cup France ™,2-1,Group A,10 Jun 1998,Match 1,Scotland,Brazil,2,1,1,0,1,0,0,0,1,0,0,0,0,0,0
+1978 FIFA World Cup Argentina ™,6-0,Group 2,06 Jun 1978,Match 12,Mexico,Germany FR,6,0,1,0,12,0,0,0,1,0,1,0,1,0,1
+1978 FIFA World Cup Argentina ™,2-1,Group 1,06 Jun 1978,Match 9,France,Argentina,2,1,1,0,9,1,0,0,1,0,1,2,1,2,1
+1978 FIFA World Cup Argentina ™,0-0,Group 3,07 Jun 1978,Match 14,Spain,Brazil,0,0,0,0,14,0,0,0,0,0,1,1,1,1,1
+1978 FIFA World Cup Argentina ™,1-0,Group 3,07 Jun 1978,Match 13,Sweden,Austria,1,0,1,0,13,1,0,0,1,0,0,2,1,2,1
+1978 FIFA World Cup Argentina ™,1-1,Group 4,07 Jun 1978,Match 15,IR Iran,Scotland,1,1,0,0,15,0,0,0,0,1,1,1,0,1,0
+2006 FIFA World Cup Germany ™,3-1,Group D,11 Jun 2006,Match 7,IR Iran,Mexico,3,1,1,0,7,0,0,0,1,0,0,0,0,0,0
+2006 FIFA World Cup Germany ™,0-1,Group D,11 Jun 2006,Match 8,Portugal,Angola,0,1,0,1,8,0,0,1,0,0,0,0,0,0,0
+2006 FIFA World Cup Germany ™,3-1,Group F,12 Jun 2006,Match 12,Japan,Australia,3,1,1,0,12,0,0,0,1,0,0,0,0,0,0
+2006 FIFA World Cup Germany ™,0-3,Group E,12 Jun 2006,Match 10,Czech Republic,USA,0,3,0,1,10,0,0,1,0,0,0,0,0,0,0
+2006 FIFA World Cup Germany ™,2-0,Group E,12 Jun 2006,Match 9,Ghana,Italy,2,0,1,0,9,0,0,0,1,0,0,0,0,0,0
+1990 FIFA World Cup Italy ™,1-2,Group C,16 Jun 1990,Match 20,Scotland,Sweden,1,2,0,1,20,0,0,1,0,1,1,1,0,1,0
+1990 FIFA World Cup Italy ™,0-0,Group F,16 Jun 1990,Match 21,Netherlands,England,0,0,0,0,21,0,0,0,0,0,0,1,1,1,1
+1990 FIFA World Cup Italy ™,0-0,Group F,17 Jun 1990,Match 22,Egypt,Republic of Ireland,0,0,0,0,22,0,0,0,0,0,0,1,1,1,1
+1990 FIFA World Cup Italy ™,1-3,Group E,17 Jun 1990,Match 24,Spain,Korea Republic,1,3,0,1,24,0,0,1,0,1,0,0,0,0,0
+1990 FIFA World Cup Italy ™,3-1,Group E,17 Jun 1990,Match 23,Uruguay,Belgium,3,1,1,0,23,1,0,0,1,0,0,2,0,0,0
+2002 FIFA World Cup Korea/Japan ™,2-2,Group B,02 Jun 2002,Match 6,South Africa,Paraguay,2,2,0,0,6,0,0,0,0,0,0,0,0,0,0
+2002 FIFA World Cup Korea/Japan ™,1-1,Group F,02 Jun 2002,Match 5,Sweden,England,1,1,0,0,5,0,0,0,0,0,0,0,0,0,0
+2002 FIFA World Cup Korea/Japan ™,3-1,Group B,02 Jun 2002,Match 8,Slovenia,Spain,3,1,1,0,8,0,0,0,1,0,0,0,0,0,0
+2002 FIFA World Cup Korea/Japan ™,2-1,Group C,03 Jun 2002,Match 10,Turkey,Brazil,2,1,1,0,10,0,0,0,1,0,0,0,0,0,0
+1994 FIFA World Cup USA ™,0-0,Group C,23 Jun 1994,Match 17,Bolivia,Korea Republic,0,0,0,0,17,0,0,0,0,0,1,2,0,2,0
+1994 FIFA World Cup USA ™,2-1,Group E,24 Jun 1994,Match 18,Republic of Ireland,Mexico,2,1,1,0,18,0,1,0,1,1,0,0,1,0,0
+1994 FIFA World Cup USA ™,3-1,Group B,24 Jun 1994,Match 20,Russia,Sweden,3,1,1,0,20,0,0,0,1,0,1,2,0,2,0
+1994 FIFA World Cup USA ™,3-0,Group B,24 Jun 1994,Match 19,Cameroon,Brazil,3,0,1,0,19,1,0,0,1,0,0,2,2,0,2
+1998 FIFA World Cup France ™,2-2,Group A,10 Jun 1998,Match 2,Norway,Morocco,2,2,0,0,2,0,0,0,0,0,0,0,0,0,0
+1998 FIFA World Cup France ™,2-2,Group B,11 Jun 1998,Match 4,Chile,Italy,2,2,0,0,4,0,0,0,0,0,0,0,0,0,0
+1998 FIFA World Cup France ™,1-1,Group B,11 Jun 1998,Match 3,Austria,Cameroon,1,1,0,0,3,0,0,0,0,0,0,0,0,0,0
+1998 FIFA World Cup France ™,0-0,Group D,12 Jun 1998,Match 7,Bulgaria,Paraguay,0,0,0,0,7,0,0,0,0,0,0,0,0,0,0
+1978 FIFA World Cup Argentina ™,0-0,Group 4,07 Jun 1978,Match 16,Peru,Netherlands,0,0,0,0,16,1,1,0,0,0,0,3,3,0,3
+1978 FIFA World Cup Argentina ™,3-1,Group 1,10 Jun 1978,Match 18,Hungary,France,3,1,1,0,18,0,0,0,1,2,2,2,2,2,2
+1978 FIFA World Cup Argentina ™,3-1,Group 2,10 Jun 1978,Match 19,Mexico,Poland,3,1,1,0,19,1,0,0,1,0,2,1,1,0,1
+1978 FIFA World Cup Argentina ™,0-0,Group 2,10 Jun 1978,Match 20,Tunisia,Germany FR,0,0,0,0,20,1,1,0,0,0,1,6,3,0,3
+2006 FIFA World Cup Germany ™,2-1,Group G,13 Jun 2006,Match 14,Togo,Korea Republic,2,1,1,0,14,0,0,0,1,0,0,0,0,0,0
+2006 FIFA World Cup Germany ™,0-0,Group G,13 Jun 2006,Match 13,Switzerland,France,0,0,0,0,13,0,0,0,0,0,0,0,0,0,0
+2006 FIFA World Cup Germany ™,1-0,Group F,13 Jun 2006,Match 11,Croatia,Brazil,1,0,1,0,11,0,0,0,1,0,0,0,0,0,0
+2006 FIFA World Cup Germany ™,4-0,Group H,14 Jun 2006,Match 15,Ukraine,Spain,4,0,1,0,15,0,0,0,1,0,0,0,0,0,0
+2006 FIFA World Cup Germany ™,2-2,Group H,14 Jun 2006,Match 16,Saudi Arabia,Tunisia,2,2,0,0,16,0,0,0,0,0,0,0,0,0,0
+1990 FIFA World Cup Italy ™,1-1,Group B,18 Jun 1990,Match 25,Romania,Argentina,1,1,0,0,25,1,1,0,0,1,1,2,3,0,1
+1990 FIFA World Cup Italy ™,0-4,Group B,18 Jun 1990,Match 26,Soviet Union,Cameroon,0,4,0,1,26,2,0,1,0,0,2,3,0,2,0
+1990 FIFA World Cup Italy ™,1-1,Group D,19 Jun 1990,Match 27,Colombia,Germany FR,1,1,0,0,27,2,1,0,0,0,1,9,2,9,0
+1990 FIFA World Cup Italy ™,4-1,Group D,19 Jun 1990,Match 28,United Arab Emirates,Yugoslavia,4,1,1,0,28,1,0,0,1,1,2,2,1,1,1
+2002 FIFA World Cup Korea/Japan ™,2-0,Group G,03 Jun 2002,Match 11,Ecuador,Italy,2,0,1,0,11,0,0,0,1,0,0,0,0,0,0
+2002 FIFA World Cup Korea/Japan ™,0-1,Group G,03 Jun 2002,Match 9,Mexico,Croatia,0,1,0,1,9,0,0,1,0,0,0,0,0,0,0
+2002 FIFA World Cup Korea/Japan ™,0-2,Group C,04 Jun 2002,Match 12,Costa Rica,China PR,0,2,0,1,12,0,0,1,0,0,0,0,0,0,0
+2002 FIFA World Cup Korea/Japan ™,2-2,Group H,04 June 2002,Match 13,Belgium,Japan,2,2,0,0,13,0,0,0,0,0,0,0,0,0,0
+2002 FIFA World Cup Korea/Japan ™,2-0,Group D,04 Jun 2002,Match 14,Poland,Korea Republic,2,0,1,0,14,0,0,0,1,0,0,0,0,0,0
+1994 FIFA World Cup USA ™,1-0,Group F,25 Jun 1994,Match 21,Netherlands,Belgium,1,0,1,0,21,1,1,0,1,0,0,1,2,0,2
+1994 FIFA World Cup USA ™,2-1,Group F,25 Jun 1994,Match 22,Morocco,Saudi Arabia,2,1,1,0,22,0,0,0,1,1,1,1,0,1,0
+1994 FIFA World Cup USA ™,2-1,Group D,25 Jun 1994,Match 23,Nigeria,Argentina,2,1,1,0,23,1,1,0,1,0,0,4,3,0,0
+1994 FIFA World Cup USA ™,4-0,Group D,26 Jun 1994,Match 24,Greece,Bulgaria,4,0,1,0,24,0,0,0,1,1,1,0,0,0,0
+1998 FIFA World Cup France ™,0-1,Group C,12 Jun 1998,Match 5,Denmark,Saudi Arabia,0,1,0,1,5,0,0,1,0,0,0,0,0,0,0
+1998 FIFA World Cup France ™,3-0,Group C,12 Jun 1998,Match 6,South Africa,France,3,0,1,0,6,0,0,0,1,0,0,0,0,0,0
+1998 FIFA World Cup France ™,2-3,Group D,13 Jun 1998,Match 10,Nigeria,Spain,2,3,0,1,10,0,0,1,0,0,0,0,0,0,0
+1998 FIFA World Cup France ™,1-3,Group E,13 Jun 1998,Match 9,Mexico,Korea Republic,1,3,0,1,9,0,0,1,0,0,0,0,0,0,0
+1998 FIFA World Cup France ™,0-0,Group E,13 Jun 1998,Match 8,Belgium,Netherlands,0,0,0,0,8,0,0,0,0,0,0,0,0,0,0
+1978 FIFA World Cup Argentina ™,1-0,Group 1,10 Jun 1978,Match 17,Argentina,Italy,1,0,1,0,17,2,2,0,1,0,0,5,4,5,4
+1978 FIFA World Cup Argentina ™,1-0,Group 3,11 Jun 1978,Match 22,Austria,Brazil,1,0,1,0,22,0,2,0,1,0,0,1,3,1,2
+1978 FIFA World Cup Argentina ™,1-0,Group 3,11 Jun 1978,Match 21,Sweden,Spain,1,0,1,0,21,0,0,0,1,1,1,1,1,1,1
+1978 FIFA World Cup Argentina ™,4-1,Group 4,11 Jun 1978,Match 23,IR Iran,Peru,4,1,1,0,23,1,0,0,1,0,1,3,1,3,1
+2006 FIFA World Cup Germany ™,1-0,Group A,14 Jun 2006,Match 17,Poland,Germany,1,0,1,0,17,1,0,0,1,0,1,4,0,4,0
+2006 FIFA World Cup Germany ™,3-0,Group A,15 Jun 2006,Match 18,Costa Rica,Ecuador,3,0,1,0,18,1,0,0,1,0,1,2,2,0,2
+2006 FIFA World Cup Germany ™,2-0,Group B,15 Jun 2006,Match 19,Trinidad and Tobago,England,2,0,1,0,19,1,0,0,1,0,0,1,0,0,0
+2006 FIFA World Cup Germany ™,1-0,Group B,15 Jun 2006,Match 20,Paraguay,Sweden,1,0,1,0,20,0,0,0,1,0,1,0,0,0,0
+2006 FIFA World Cup Germany ™,6-0,Group C,16 Jun 2006,Match 21,Serbia and Montenegro,Argentina,6,0,1,0,21,1,0,0,1,0,1,2,0,2,0
+1990 FIFA World Cup Italy ™,2-0,Group A,19 Jun 1990,Match 29,Czechoslovakia,Italy,2,0,1,0,29,2,2,0,1,0,0,2,6,0,5
+1990 FIFA World Cup Italy ™,2-1,Group A,19 Jun 1990,Match 30,USA,Austria,2,1,1,0,30,0,0,0,1,2,2,0,1,0,1
+1990 FIFA World Cup Italy ™,1-0,Group C,20 Jun 1990,Match 31,Scotland,Brazil,1,0,1,0,31,2,1,0,1,0,1,3,2,2,2
+1990 FIFA World Cup Italy ™,1-2,Group C,20 Jun 1990,Match 32,Costa Rica,Sweden,1,2,0,1,32,0,1,1,0,2,1,2,1,2,0
+1990 FIFA World Cup Italy ™,0-1,Group E,21 Jun 1990,Match 34,Uruguay,Korea Republic,0,1,0,1,34,0,0,1,0,2,1,1,1,1,1
+2002 FIFA World Cup Korea/Japan ™,2-0,Group H,05 Jun 2002,Match 15,Tunisia,Russia,2,0,1,0,15,0,0,0,1,0,0,0,0,0,0
+2002 FIFA World Cup Korea/Japan ™,3-2,Group D,05 Jun 2002,Match 16,Portugal,USA,3,2,1,0,16,0,0,0,1,0,0,0,0,0,0
+2002 FIFA World Cup Korea/Japan ™,1-1,Group E,05 Jun 2002,Match 17,Republic of Ireland,Germany,1,1,0,0,17,1,0,0,0,0,0,8,1,0,1
+2002 FIFA World Cup Korea/Japan ™,1-1,Group A,06 Jun 2002,Match 20,Senegal,Denmark,1,1,0,0,20,1,1,0,0,0,0,2,1,2,0
+1994 FIFA World Cup USA ™,0-1,Group A,26 Jun 1994,Match 25,Romania,USA,0,1,0,1,25,1,1,1,0,0,1,3,4,3,4
+1994 FIFA World Cup USA ™,0-2,Group A,26 Jun 1994,Match 26,Colombia,Switzerland,0,2,0,1,26,1,0,1,0,0,2,5,2,5,2
+1994 FIFA World Cup USA ™,3-2,Group C,27 Jun 1994,Match 28,Korea Republic,Germany,3,2,1,0,28,1,0,0,1,0,0,2,2,1,2
+1994 FIFA World Cup USA ™,1-3,Group C,27 Jun 1994,Match 27,Spain,Bolivia,1,3,0,1,27,0,0,1,0,1,0,0,3,0,3
+1994 FIFA World Cup USA ™,0-0,Group E,28 Jun 1994,Match 29,Norway,Republic of Ireland,0,0,0,0,29,1,1,0,0,1,1,2,1,1,0
+1998 FIFA World Cup France ™,1-0,Group H,14 Jun 1998,Match 13,Japan,Argentina,1,0,1,0,13,0,0,0,1,0,0,0,0,0,0
+1998 FIFA World Cup France ™,1-0,Group F,14 Jun 1998,Match 12,Iran,Yugoslavia,1,0,1,0,12,0,0,0,1,0,0,0,0,0,0
+1998 FIFA World Cup France ™,1-3,Group H,14 Jun 1998,Match 11,Croatia,Jamaica,1,3,0,1,11,0,0,1,0,0,0,0,0,0,0
+1998 FIFA World Cup France ™,2-0,Group G,15 Jun 1998,Match 16,Tunisia,England,2,0,1,0,16,0,0,0,1,0,0,0,0,0,0
+1978 FIFA World Cup Argentina ™,3-2,Group 4,11 Jun 1978,Match 24,Netherlands,Scotland,3,2,1,0,24,0,1,0,1,1,0,2,3,2,0
+1978 FIFA World Cup Argentina ™,0-0,Group A,14 Jun 1978,Match 25,Italy,Germany FR,0,0,0,0,25,1,3,0,0,0,0,6,6,0,5
+1978 FIFA World Cup Argentina ™,5-1,Group A,14 Jun 1978,Match 27,Austria,Netherlands,5,1,1,0,27,1,2,0,1,1,1,5,3,2,2
+1978 FIFA World Cup Argentina ™,3-0,Group B,14 Jun 1978,Match 28,Peru,Brazil,3,0,1,0,28,1,2,0,1,0,0,2,7,1,7
+2006 FIFA World Cup Germany ™,2-1,Group C,16 Jun 2006,Match 22,Côte d'Ivoire,Netherlands,2,1,1,0,22,1,0,0,1,0,1,1,1,0,1
+2006 FIFA World Cup Germany ™,0-0,Group D,16 Jun 2006,Match 23,Angola,Mexico,0,0,0,0,23,1,0,0,0,0,1,3,0,3,0
+2006 FIFA World Cup Germany ™,2-0,Group D,17 Jun 2006,Match 24,IR Iran,Portugal,2,0,1,0,24,1,0,0,1,0,1,1,1,0,1
+2006 FIFA World Cup Germany ™,0-2,Group E,17 Jun 2006,Match 26,Ghana,Czech Republic,0,2,0,1,26,1,0,1,0,0,1,3,0,0,0
+2006 FIFA World Cup Germany ™,1-1,Group E,17 Jun 2006,Match 25,USA,Italy,1,1,0,0,25,1,0,0,0,0,1,2,0,0,0
+1990 FIFA World Cup Italy ™,1-2,Group E,21 Jun 1990,Match 33,Spain,Belgium,1,2,0,1,33,2,1,1,0,0,0,5,3,3,3
+1990 FIFA World Cup Italy ™,1-1,Group F,21 Jun 1990,Match 36,Netherlands,Republic of Ireland,1,1,0,0,36,0,0,0,0,0,0,1,1,1,1
+1990 FIFA World Cup Italy ™,1-0,Group F,21 Jun 1990,Match 35,Egypt,England,1,0,1,0,35,0,0,0,1,0,0,1,1,1,1
+1990 FIFA World Cup Italy ™,2-1,Round of 16,23 Jun 1990,Match 37,Colombia,Cameroon,2,1,1,0,37,2,1,0,1,1,1,3,3,2,1
+1990 FIFA World Cup Italy ™,4-1,Round of 16,23 Jun 1990,Match 38,Costa Rica,Czechoslovakia,4,1,1,0,38,2,2,0,1,1,1,6,3,5,2
+2002 FIFA World Cup Korea/Japan ™,1-0,Group E,06 Jun 2002,Match 19,Saudi Arabia,Cameroon,1,0,1,0,19,0,0,0,1,0,1,1,0,1,0
+2002 FIFA World Cup Korea/Japan ™,0-0,Group A,06 Jun 2002,Match 18,Uruguay,France,0,0,0,0,18,0,0,0,0,1,1,0,1,0,1
+2002 FIFA World Cup Korea/Japan ™,2-1,Group F,07 Jun 2002,Match 21,Nigeria,Sweden,2,1,1,0,21,0,0,0,1,0,1,1,0,1,0
+2002 FIFA World Cup Korea/Japan ™,0-1,Group F,07 Jun 2002,Match 23,England,Argentina,0,1,0,1,23,1,0,1,0,0,0,1,1,0,1
+1994 FIFA World Cup USA ™,1-1,Group B,28 Jun 1994,Match 32,Sweden,Brazil,1,1,0,0,32,2,1,0,0,0,0,5,5,0,5
+1994 FIFA World Cup USA ™,1-1,Group E,28 Jun 1994,Match 30,Mexico,Italy,1,1,0,0,30,1,1,0,0,1,1,1,2,0,2
+1994 FIFA World Cup USA ™,6-1,Group B,28 Jun 1994,Match 31,Cameroon,Russia,6,1,1,0,31,0,0,0,1,2,1,1,2,1,2
+1994 FIFA World Cup USA ™,1-2,Group F,29 Jun 1994,Match 33,Netherlands,Morocco,1,2,0,1,33,0,1,1,0,2,1,1,2,1,2
+1994 FIFA World Cup USA ™,0-1,Group F,29 Jun 1994,Match 34,Saudi Arabia,Belgium,0,1,0,1,34,2,1,1,0,0,1,2,3,0,3
+1986 FIFA World Cup Mexico ™,1-1,Group A,31 May 1986,Match 1,Italy,Bulgaria,1,1,0,0,1,0,0,0,0,0,0,0,0,0,0
+1998 FIFA World Cup France ™,1-0,Group G,15 Jun 1998,Match 15,Colombia,Romania,1,0,1,0,15,0,0,0,1,0,0,0,0,0,0
+1998 FIFA World Cup France ™,2-0,Group F,15 Jun 1998,Match 14,USA,Germany,2,0,1,0,14,0,0,0,1,0,0,0,0,0,0
+1998 FIFA World Cup France ™,1-1,Group A,16 Jun 1998,Match 17,Norway,Scotland,1,1,0,0,17,0,0,0,0,1,0,1,2,1,2
+1998 FIFA World Cup France ™,3-0,Group A,16 Jun 1998,Match 18,Morocco,Brazil,3,0,1,0,18,1,0,0,1,0,0,2,2,2,2
+1998 FIFA World Cup France ™,1-1,Group B,17 Jun 1998,Match 19,Austria,Chile,1,1,0,0,19,0,0,0,0,0,0,2,1,2,1
+1978 FIFA World Cup Argentina ™,2-0,Group B,14 Jun 1978,Match 26,Poland,Argentina,2,0,1,0,26,2,2,0,1,1,0,4,4,4,3
+1978 FIFA World Cup Argentina ™,1-0,Group B,18 Jun 1978,Match 32,Peru,Poland,1,0,1,0,32,2,2,0,1,1,1,4,7,3,7
+1978 FIFA World Cup Argentina ™,1-0,Group A,18 Jun 1978,Match 29,Austria,Italy,1,0,1,0,29,3,2,0,1,0,2,6,4,5,3
+1978 FIFA World Cup Argentina ™,2-2,Group A,18 Jun 1978,Match 31,Netherlands,Germany FR,2,2,0,0,31,1,2,0,0,0,1,6,10,0,7
+1978 FIFA World Cup Argentina ™,0-0,Group B,18 Jun 1978,Match 30,Brazil,Argentina,0,0,0,0,30,3,2,0,0,1,0,6,5,4,1
+2006 FIFA World Cup Germany ™,0-0,Group F,18 Jun 2006,Match 28,Croatia,Japan,0,0,0,0,28,0,0,0,0,1,1,1,0,1,0
+2006 FIFA World Cup Germany ™,2-0,Group F,18 Jun 2006,Match 27,Australia,Brazil,2,0,1,0,27,1,1,0,1,0,0,1,3,0,3
+2006 FIFA World Cup Germany ™,1-1,Group G,18 Jun 2006,Match 29,Korea Republic,France,1,1,0,0,29,0,1,0,0,0,0,0,2,0,2
+2006 FIFA World Cup Germany ™,0-2,Group G,19 Jun 2006,Match 30,Switzerland,Togo,0,2,0,1,30,0,0,1,0,1,0,1,0,1,0
+1990 FIFA World Cup Italy ™,0-1,Round of 16,24 Jun 1990,Match 39,Argentina,Brazil,0,1,0,1,39,3,1,1,0,0,1,4,3,2,1
+1990 FIFA World Cup Italy ™,2-1,Round of 16,24 Jun 1990,Match 40,Netherlands,Germany FR,2,1,1,0,40,2,0,0,1,0,0,10,2,10,2
+1990 FIFA World Cup Italy ™,0-0,Round of 16,25 Jun 1990,Match 41,Romania,Republic of Ireland,0,0,0,0,41,0,1,0,0,0,1,2,4,2,2
+1990 FIFA World Cup Italy ™,2-0,Round of 16,25 Jun 1990,Match 42,Uruguay,Italy,2,0,1,0,42,3,1,0,1,0,1,4,2,0,1
+2002 FIFA World Cup Korea/Japan ™,3-1,Group B,07 Jun 2002,Match 22,Paraguay,Spain,3,1,1,0,22,1,0,0,1,0,0,3,2,3,2
+2002 FIFA World Cup Korea/Japan ™,1-0,Group B,08 Jun 2002,Match 24,Slovenia,South Africa,1,0,1,0,24,0,0,0,1,0,1,2,1,2,1
+2002 FIFA World Cup Korea/Japan ™,4-0,Group C,08 Jun 2002,Match 26,China PR,Brazil,4,0,1,0,26,1,0,0,1,0,1,2,0,2,0
+2002 FIFA World Cup Korea/Japan ™,1-2,Group G,08 Jun 2002,Match 25,Croatia,Italy,1,2,0,1,25,1,0,1,0,0,1,2,0,0,0
+1994 FIFA World Cup USA ™,0-2,Group D,30 Jun 1994,Match 35,Nigeria,Greece,0,2,0,1,35,0,1,1,0,2,1,0,4,0,1
+1994 FIFA World Cup USA ™,0-2,Group D,30 Jun 1994,Match 36,Bulgaria,Argentina,0,2,0,1,36,2,1,1,0,0,1,6,4,2,0
+1994 FIFA World Cup USA ™,3-2,Round of 16,02 Jul 1994,Match 37,Belgium,Germany,3,2,1,0,37,2,2,0,1,0,1,5,2,4,0
+1994 FIFA World Cup USA ™,3-0,Round of 16,02 Jul 1994,Match 38,Switzerland,Spain,3,0,1,0,38,1,1,0,1,0,1,6,5,6,5
+1986 FIFA World Cup Mexico ™,0-1,Group C,01 Jun 1986,Match 2,France,Canada,0,1,0,1,2,0,0,1,0,0,0,0,0,0,0
+1986 FIFA World Cup Mexico ™,0-1,Group D,01 Jun 1986,Match 3,Brazil,Spain,0,1,0,1,3,0,0,1,0,0,0,0,0,0,0
+1986 FIFA World Cup Mexico ™,6-0,Group C,02 Jun 1986,Match 5,Hungary,Soviet Union,6,0,1,0,5,0,0,0,1,0,0,0,0,0,0
+1986 FIFA World Cup Mexico ™,3-1,Group A,02 Jun 1986,Match 4,Korea Republic,Argentina,3,1,1,0,4,0,0,0,1,0,0,0,0,0,0
+1986 FIFA World Cup Mexico ™,0-0,Group F,02 Jun 1986,Match 6,Poland,Morocco,0,0,0,0,6,0,0,0,0,0,0,0,0,0,0
+1998 FIFA World Cup France ™,3-0,Group B,17 Jun 1998,Match 20,Cameroon,Italy,3,0,1,0,20,0,0,0,1,0,0,2,1,2,1
+1998 FIFA World Cup France ™,1-1,Group C,18 Jun 1998,Match 22,Denmark,South Africa,1,1,0,0,22,0,1,0,0,1,0,0,1,0,0
+1998 FIFA World Cup France ™,4-0,Group C,18 Jun 1998,Match 21,Saudi Arabia,France,4,0,1,0,21,1,0,0,1,0,1,3,0,0,0
+1998 FIFA World Cup France ™,1-0,Group D,19 Jun 1998,Match 23,Bulgaria,Nigeria,1,0,1,0,23,1,0,0,1,0,0,3,0,3,0
+1982 FIFA World Cup Spain ™,0-1,Group 3,13 Jun 1982,Match 1,Belgium,Argentina,0,1,0,1,1,0,0,1,0,0,0,0,0,0,0
+1978 FIFA World Cup Argentina ™,2-1,Group A,21 Jun 1978,Match 33,Italy,Netherlands,2,1,1,0,33,2,4,0,1,1,0,12,7,9,5
+1978 FIFA World Cup Argentina ™,3-2,Group A,21 Jun 1978,Match 35,Germany FR,Austria,3,2,1,0,35,2,1,0,1,3,0,4,8,3,2
+1978 FIFA World Cup Argentina ™,3-1,Group B,21 Jun 1978,Match 36,Poland,Brazil,3,1,1,0,36,2,3,0,1,0,1,5,5,1,3
+1978 FIFA World Cup Argentina ™,6-0,Group B,21 Jun 1978,Match 34,Peru,Argentina,6,0,1,0,34,3,2,0,1,1,2,6,7,4,7
+2006 FIFA World Cup Germany ™,0-4,Group H,19 Jun 2006,Match 32,Ukraine,Saudi Arabia,0,4,0,1,32,0,0,1,0,0,1,2,0,2,0
+2006 FIFA World Cup Germany ™,3-1,Group H,19 Jun 2006,Match 31,Tunisia,Spain,3,1,1,0,31,1,0,0,1,0,0,4,2,0,2
+2006 FIFA World Cup Germany ™,0-3,Group A,20 Jun 2006,Match 33,Germany,Ecuador,0,3,0,1,33,2,2,1,0,0,0,5,5,0,4
+2006 FIFA World Cup Germany ™,1-2,Group A,20 Jun 2006,Match 34,Poland,Costa Rica,1,2,0,1,34,0,0,1,0,2,2,2,0,2,0
+1990 FIFA World Cup Italy ™,1-2,Round of 16,26 Jun 1990,Match 43,Yugoslavia,Spain,1,2,0,1,43,2,2,1,0,0,1,5,6,5,5
+1990 FIFA World Cup Italy ™,1-0,Round of 16,26 Jun 1990,Match 44,Belgium,England,1,0,1,0,44,1,2,0,1,0,1,2,6,1,4
+1990 FIFA World Cup Italy ™,0-0,Quarter-finals,30 Jun 1990,Match 45,Argentina,Yugoslavia,0,0,0,0,45,3,2,0,0,1,1,8,4,7,1
+1990 FIFA World Cup Italy ™,1-0,Quarter-finals,30 Jun 1990,Match 46,Republic of Ireland,Italy,1,0,1,0,46,4,0,0,1,0,0,6,2,0,2
+1990 FIFA World Cup Italy ™,1-0,Quarter-finals,01 Jul 1990,Match 47,Czechoslovakia,Germany FR,1,0,1,0,47,3,3,0,1,0,1,12,10,12,9
+2002 FIFA World Cup Korea/Japan ™,1-1,Group C,09 Jun 2002,Match 28,Turkey,Costa Rica,1,1,0,0,28,1,0,0,0,0,1,2,1,0,1
+2002 FIFA World Cup Korea/Japan ™,1-0,Group H,09 Jun 2002,Match 29,Russia,Japan,1,0,1,0,29,0,1,0,1,0,0,2,2,2,0
+2002 FIFA World Cup Korea/Japan ™,2-1,Group G,09 Jun 2002,Match 27,Ecuador,Mexico,2,1,1,0,27,1,0,0,1,0,1,1,0,0,0
+2002 FIFA World Cup Korea/Japan ™,1-1,Group D,10 Jun 2002,Match 30,USA,Korea Republic,1,1,0,0,30,1,1,0,0,0,0,2,3,0,3
+1994 FIFA World Cup USA ™,1-3,Round of 16,03 Jul 1994,Match 39,Sweden,Saudi Arabia,1,3,0,1,39,2,1,1,0,1,0,4,6,3,6
+1994 FIFA World Cup USA ™,3-2,Round of 16,03 Jul 1994,Match 40,Argentina,Romania,3,2,1,0,40,2,2,0,1,1,1,5,6,4,2
+1994 FIFA World Cup USA ™,2-0,Round of 16,04 Jul 1994,Match 41,Republic of Ireland,Netherlands,2,0,1,0,41,2,1,0,1,1,1,4,2,4,1
+1994 FIFA World Cup USA ™,1-0,Round of 16,04 Jul 1994,Match 42,USA,Brazil,1,0,1,0,42,2,1,0,1,0,1,6,3,1,3
+1986 FIFA World Cup Mexico ™,1-1,Group D,03 Jun 1986,Match 8,Northern Ireland,Algeria,1,1,0,0,8,0,0,0,0,0,0,0,0,0,0
+1986 FIFA World Cup Mexico ™,1-2,Group B,03 Jun 1986,Match 7,Mexico,Belgium,1,2,0,1,7,0,0,1,0,0,0,0,0,0,0
+1986 FIFA World Cup Mexico ™,1-0,Group F,03 Jun 1986,Match 9,England,Portugal,1,0,1,0,9,0,0,0,1,0,0,0,0,0,0
+1986 FIFA World Cup Mexico ™,1-0,Group B,04 Jun 1986,Match 10,Iraq,Paraguay,1,0,1,0,10,0,0,0,1,0,0,0,0,0,0
+1986 FIFA World Cup Mexico ™,0-1,Group E,04 Jun 1986,Match 12,Denmark,Scotland,0,1,0,1,12,0,0,1,0,0,0,0,0,0,0
+1998 FIFA World Cup France ™,0-0,Group D,19 Jun 1998,Match 24,Paraguay,Spain,0,0,0,0,24,0,0,0,0,1,0,2,0,2,0
+1998 FIFA World Cup France ™,0-1,Group H,20 Jun 1998,Match 27,Croatia,Japan,0,1,0,1,27,0,1,1,0,1,0,0,3,0,3
+1998 FIFA World Cup France ™,2-2,Group E,20 Jun 1998,Match 26,Mexico,Belgium,2,2,0,0,26,0,1,0,0,0,0,0,3,0,3
+1998 FIFA World Cup France ™,5-0,Group E,20 Jun 1998,Match 25,Korea Republic,Netherlands,5,0,1,0,25,0,0,0,1,0,1,0,1,0,1
+1998 FIFA World Cup France ™,2-2,Group F,21 Jun 1998,Match 29,Yugoslavia,Germany,2,2,0,0,29,1,1,0,0,0,0,2,1,0,0
+1982 FIFA World Cup Spain ™,0-0,Group 1,14 Jun 1982,Match 2,Poland,Italy,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0
+1982 FIFA World Cup Spain ™,2-1,Group 6,14 Jun 1982,Match 3,Soviet Union,Brazil,2,1,1,0,3,0,0,0,1,0,0,0,0,0,0
+1982 FIFA World Cup Spain ™,0-0,Group 1,15 Jun 1982,Match 4,Cameroon,Peru,0,0,0,0,4,0,0,0,0,0,0,0,0,0,0
+1982 FIFA World Cup Spain ™,10-1,Group 3,15 Jun 1982,Match 5,El Salvador,Hungary,10,1,1,0,5,0,0,0,1,0,0,0,0,0,0
+1978 FIFA World Cup Argentina ™,2-1,Match for third place,24 Jun 1978,Match 37,Italy,Brazil,2,1,1,0,37,3,4,0,1,0,1,8,8,4,6
+1978 FIFA World Cup Argentina ™,3-1,Final,25 Jun 1978,Match 38,Netherlands,Argentina,3,1,1,0,38,4,3,0,1,1,1,12,14,4,11
+1974 FIFA World Cup Germany ™,0-0,Group 2,13 Jun 1974,Match 3,Yugoslavia,Brazil,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0
+2006 FIFA World Cup Germany ™,2-2,Group B,20 Jun 2006,Match 35,England,Sweden,2,2,0,0,35,1,2,0,0,0,0,1,3,0,0
+2006 FIFA World Cup Germany ™,2-0,Group B,20 Jun 2006,Match 36,Trinidad and Tobago,Paraguay,2,0,1,0,36,0,0,0,1,2,1,0,0,0,0
+2006 FIFA World Cup Germany ™,1-1,Group D,21 Jun 2006,Match 40,Angola,Iran,1,1,0,0,40,0,0,0,0,0,1,0,0,0,0
+2006 FIFA World Cup Germany ™,2-1,Group D,21 Jun 2006,Match 39,Mexico,Portugal,2,1,1,0,39,2,1,0,1,0,0,3,3,0,3
+1958 FIFA World Cup Sweden ™,3-0,Group 3,08 Jun 1958,Match 1,Mexico,Sweden,3,0,1,0,1,0,0,0,1,0,0,0,0,0,0
+1990 FIFA World Cup Italy ™,3-2,Quarter-finals,01 Jul 1990,Match 48,Cameroon,England,3,2,1,0,48,2,3,0,1,0,1,3,5,1,4
+1990 FIFA World Cup Italy ™,1-1,Semi-finals,03 Jul 1990,Match 49,Argentina,Italy,1,1,0,0,49,5,2,0,0,0,1,7,4,0,1
+1990 FIFA World Cup Italy ™,1-1,Semi-finals,04 Jul 1990,Match 50,England,Germany FR,1,1,0,0,50,4,3,0,0,0,0,13,6,12,4
+1990 FIFA World Cup Italy ™,2-1,Match for third place,07 Jul 1990,Match 51,England,Italy,2,1,1,0,51,5,3,0,1,0,0,8,7,1,5
+2002 FIFA World Cup Korea/Japan ™,4-0,Group D,10 Jun 2002,Match 32,Poland,Portugal,4,0,1,0,32,0,0,0,1,1,1,2,0,2,0
+2002 FIFA World Cup Korea/Japan ™,1-1,Group H,10 Jun 2002,Match 31,Belgium,Tunisia,1,1,0,0,31,0,0,0,0,1,0,0,2,0,2
+2002 FIFA World Cup Korea/Japan ™,2-0,Group A,11 Jun 2002,Match 33,France,Denmark,2,0,1,0,33,1,0,0,1,0,1,3,0,3,0
+2002 FIFA World Cup Korea/Japan ™,3-3,Group A,11 Jun 2002,Match 34,Uruguay,Senegal,3,3,0,0,34,1,0,0,0,0,1,2,1,1,1
+1994 FIFA World Cup USA ™,1-2,Round of 16,05 Jul 1994,Match 43,Italy,Nigeria,1,2,0,1,43,2,1,1,0,1,1,6,2,1,1
+1994 FIFA World Cup USA ™,1-1,Round of 16,05 Jul 1994,Match 44,Bulgaria,Mexico,1,1,0,0,44,1,2,0,0,1,1,3,6,3,0
+1994 FIFA World Cup USA ™,2-1,Quarter-finals,09 Jul 1994,Match 45,Spain,Italy,2,1,1,0,45,2,2,0,1,1,0,4,9,3,6
+1994 FIFA World Cup USA ™,2-3,Quarter-finals,09 Jul 1994,Match 46,Brazil,Netherlands,2,3,0,1,46,3,3,1,0,1,0,6,7,4,1
+1994 FIFA World Cup USA ™,2-1,Quarter-finals,10 Jul 1994,Match 47,Germany,Bulgaria,2,1,1,0,47,2,3,0,1,1,0,7,8,1,7
+1986 FIFA World Cup Mexico ™,1-1,Group E,04 Jun 1986,Match 11,Germany FR,Uruguay,1,1,0,0,11,0,0,0,0,0,0,0,0,0,0
+1986 FIFA World Cup Mexico ™,1-1,Group A,05 Jun 1986,Match 13,Argentina,Italy,1,1,0,0,13,0,1,0,0,0,0,1,3,1,3
+1986 FIFA World Cup Mexico ™,1-1,Group C,05 Jun 1986,Match 15,Soviet Union,France,1,1,0,0,15,1,1,0,0,0,0,1,6,0,0
+1986 FIFA World Cup Mexico ™,1-1,Group A,05 Jun 1986,Match 14,Bulgaria,Korea Republic,1,1,0,0,14,0,0,0,0,1,0,1,1,1,1
+1998 FIFA World Cup France ™,5-0,Group H,21 Jun 1998,Match 28,Jamaica,Argentina,5,0,1,0,28,1,0,0,1,0,1,1,1,0,1
+1998 FIFA World Cup France ™,1-2,Group F,21 Jun 1998,Match 30,Iran,USA,1,2,0,1,30,0,0,1,0,1,1,0,0,0,0
+1998 FIFA World Cup France ™,1-0,Group G,22 Jun 1998,Match 31,Tunisia,Colombia,1,0,1,0,31,0,0,0,1,1,1,0,0,0,0
+1998 FIFA World Cup France ™,2-1,Group G,22 Jun 1998,Match 32,England,Romania,2,1,1,0,32,1,1,0,1,0,0,1,2,0,0
+1998 FIFA World Cup France ™,2-1,Group B,23 Jun 1998,Match 33,Austria,Italy,2,1,1,0,33,1,0,0,1,0,0,5,2,2,2
+1970 FIFA World Cup Mexico ™,0-0,Group 1,31 May 1970,Match 1,Soviet Union,Mexico,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0
+1982 FIFA World Cup Spain ™,5-2,Group 6,15 Jun 1982,Match 6,New Zealand,Scotland,5,2,1,0,6,0,0,0,1,0,0,0,0,0,0
+1982 FIFA World Cup Spain ™,1-2,Group 2,16 Jun 1982,Match 7,Algeria,Germany FR,1,2,0,1,7,0,0,1,0,0,0,0,0,0,0
+1982 FIFA World Cup Spain ™,3-1,Group 4,16 Jun 1982,Match 8,France,England,3,1,1,0,8,0,0,0,1,0,0,0,0,0,0
+1982 FIFA World Cup Spain ™,1-1,Group 5,16 Jun 1982,Match 9,Honduras,Spain,1,1,0,0,9,0,0,0,0,0,0,0,0,0,0
+1982 FIFA World Cup Spain ™,0-1,Group 2,17 Jun 1982,Match 10,Austria,Chile,0,1,0,1,10,0,0,1,0,0,0,0,0,0,0
+1954 FIFA World Cup Switzerland ™,2-0,Group 3,16 Jun 1954,Match 1,Czechoslovakia,Uruguay,2,0,1,0,1,0,0,0,1,0,0,0,0,0,0
+1974 FIFA World Cup Germany ™,1-0,Group 1,14 Jun 1974,Match 1,Chile,Germany FR,1,0,1,0,1,0,0,0,1,0,0,0,0,0,0
+1974 FIFA World Cup Germany ™,2-0,Group 1,14 Jun 1974,Match 2,Australia,German DR,2,0,1,0,2,0,0,0,1,0,0,0,0,0,0
+1974 FIFA World Cup Germany ™,0-2,Group 2,14 Jun 1974,Match 4,Scotland,Zaire,0,2,0,1,4,0,0,1,0,0,0,0,0,0,0
+1974 FIFA World Cup Germany ™,0-2,Group 3,15 Jun 1974,Match 5,Netherlands,Uruguay,0,2,0,1,5,0,0,1,0,0,0,0,0,0,0
+1966 FIFA World Cup England ™,0-0,Group 1,11 Jul 1966,Match 1,Uruguay,England,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0
+2006 FIFA World Cup Germany ™,0-0,Group C,21 Jun 2006,Match 37,Argentina,Netherlands,0,0,0,0,37,2,2,0,0,0,0,3,8,2,2
+2006 FIFA World Cup Germany ™,3-2,Group C,21 Jun 2006,Match 38,Serbia and Montenegro,Côte d'Ivoire,3,2,1,0,38,0,0,0,1,2,2,2,0,2,0
+2006 FIFA World Cup Germany ™,0-2,Group E,22 Jun 2006,Match 41,Italy,Czech Republic,0,2,0,1,41,1,1,1,0,1,0,3,3,0,1
+2006 FIFA World Cup Germany ™,2-1,Group E,22 Jun 2006,Match 42,USA,Ghana,2,1,1,0,42,1,0,0,1,1,1,2,1,0,1
+1962 FIFA World Cup Chile ™,2-1,Group 1,30 May 1962,Match 1,Colombia,Uruguay,2,1,1,0,1,0,0,0,1,0,0,0,0,0,0
+1958 FIFA World Cup Sweden ™,2-2,Group 4,08 Jun 1958,Match 5,England,Soviet Union,2,2,0,0,5,0,0,0,0,0,0,0,0,0,0
+1958 FIFA World Cup Sweden ™,1-3,Group 1,08 Jun 1958,Match 7,Germany FR,Argentina,1,3,0,1,7,0,0,1,0,0,0,0,0,0,0
+1958 FIFA World Cup Sweden ™,1-1,Group 3,08 Jun 1958,Match 2,Wales,Hungary,1,1,0,0,2,0,0,0,0,0,0,0,0,0,0
+1958 FIFA World Cup Sweden ™,7-3,Group 2,08 Jun 1958,Match 3,Paraguay,France,7,3,1,0,3,0,0,0,1,0,0,0,0,0,0
+1958 FIFA World Cup Sweden ™,1-1,Group 2,08 Jun 1958,Match 4,Scotland,Yugoslavia,1,1,0,0,4,0,0,0,0,0,0,0,0,0,0
+1990 FIFA World Cup Italy ™,1-0,Final,08 Jul 1990,Match 52,Argentina,Germany FR,1,0,1,0,52,4,2,0,1,0,1,14,5,13,2
+2002 FIFA World Cup Korea/Japan ™,0-3,Group E,11 Jun 2002,Match 36,Republic of Ireland,Saudi Arabia,0,3,0,1,36,0,0,1,0,2,0,0,2,0,2
+2002 FIFA World Cup Korea/Japan ™,0-2,Group E,11 Jun 2002,Match 35,Germany,Cameroon,0,2,0,1,35,1,1,1,0,0,0,2,9,1,1
+2002 FIFA World Cup Korea/Japan ™,1-1,Group F,12 Jun 2002,Match 37,Argentina,Sweden,1,1,0,0,37,1,1,0,0,0,1,3,1,3,0
+2002 FIFA World Cup Korea/Japan ™,0-0,Group F,12 Jun 2002,Match 38,England,Nigeria,0,0,0,0,38,0,1,0,0,2,0,1,2,1,1
+2002 FIFA World Cup Korea/Japan ™,1-3,Group B,12 Jun 2002,Match 40,Paraguay,Slovenia,1,3,0,1,40,0,0,1,0,2,1,1,3,1,3
+1994 FIFA World Cup USA ™,2-2,Quarter-finals,10 Jul 1994,Match 48,Sweden,Romania,2,2,0,0,48,3,2,0,0,1,0,8,9,7,9
+1994 FIFA World Cup USA ™,1-2,Semi-finals,13 Jul 1994,Match 49,Italy,Bulgaria,1,2,0,1,49,3,3,1,0,1,1,9,6,3,5
+1994 FIFA World Cup USA ™,0-1,Semi-finals,13 Jul 1994,Match 50,Brazil,Sweden,0,1,0,1,50,2,4,1,0,0,0,11,10,11,4
+1994 FIFA World Cup USA ™,4-0,Match for third place,16 Jul 1994,Match 51,Bulgaria,Sweden,4,0,1,0,51,2,3,0,1,1,2,11,10,11,4
+1994 FIFA World Cup USA ™,0-0,Final,17 Jul 1994,Match 52,Italy,Brazil,0,0,0,0,52,5,4,0,0,0,1,11,8,4,7
+1986 FIFA World Cup Mexico ™,2-0,Group C,06 Jun 1986,Match 16,Canada,Hungary,2,0,1,0,16,0,0,0,1,1,1,0,0,0,0
+1986 FIFA World Cup Mexico ™,1-0,Group D,06 Jun 1986,Match 17,Algeria,Brazil,1,0,1,0,17,1,0,0,1,0,0,1,1,0,1
+1986 FIFA World Cup Mexico ™,0-0,Group F,06 Jun 1986,Match 18,Morocco,England,0,0,0,0,18,0,0,0,0,1,0,0,0,0,0
+1986 FIFA World Cup Mexico ™,1-2,Group D,07 Jun 1986,Match 20,Spain,Northern Ireland,1,2,0,1,20,0,0,1,0,0,1,1,0,1,0
+1998 FIFA World Cup France ™,1-1,Group B,23 Jun 1998,Match 36,Cameroon,Chile,1,1,0,0,36,0,0,0,0,0,1,3,1,3,1
+1998 FIFA World Cup France ™,0-3,Group A,23 Jun 1998,Match 34,Morocco,Scotland,0,3,0,1,34,0,0,1,0,1,1,2,2,2,2
+1998 FIFA World Cup France ™,1-2,Group A,23 Jun 1998,Match 35,Norway,Brazil,1,2,0,1,35,2,0,1,0,0,0,5,3,2,3
+1998 FIFA World Cup France ™,2-1,Group C,24 Jun 1998,Match 38,Denmark,France,2,1,1,0,38,2,1,0,1,0,0,7,2,0,1
+1998 FIFA World Cup France ™,2-2,Group C,24 Jun 1998,Match 40,Saudi Arabia,South Africa,2,2,0,0,40,0,0,0,0,1,2,1,0,1,0
+1970 FIFA World Cup Mexico ™,2-0,Group 2,02 Jun 1970,Match 2,Israel,Uruguay,2,0,1,0,2,0,0,0,1,0,0,0,0,0,0
+1970 FIFA World Cup Mexico ™,3-2,Group 4,02 Jun 1970,Match 4,Bulgaria,Peru,3,2,1,0,4,0,0,0,1,0,0,0,0,0,0
+1970 FIFA World Cup Mexico ™,1-0,Group 3,02 Jun 1970,Match 3,Romania,England,1,0,1,0,3,0,0,0,1,0,0,0,0,0,0
+1970 FIFA World Cup Mexico ™,1-0,Group 2,03 Jun 1970,Match 6,Sweden,Italy,1,0,1,0,6,0,0,0,1,0,0,0,0,0,0
+1970 FIFA World Cup Mexico ™,2-1,Group 4,03 Jun 1970,Match 8,Morocco,Germany FR,2,1,1,0,8,0,0,0,1,0,0,0,0,0,0
+1982 FIFA World Cup Spain ™,1-1,Group 4,17 Jun 1982,Match 11,Kuwait,Czechoslovakia,1,1,0,0,11,0,0,0,0,0,0,0,0,0,0
+1982 FIFA World Cup Spain ™,0-0,Group 5,17 Jun 1982,Match 12,Northern Ireland,Yugoslavia,0,0,0,0,12,0,0,0,0,0,0,0,0,0,0
+1982 FIFA World Cup Spain ™,1-1,Group 1,18 Jun 1982,Match 13,Peru,Italy,1,1,0,0,13,0,0,0,0,0,0,0,0,0,0
+1982 FIFA World Cup Spain ™,4-1,Group 3,18 Jun 1982,Match 14,Hungary,Argentina,4,1,1,0,14,0,1,0,1,1,0,0,10,0,10
+1954 FIFA World Cup Switzerland ™,1-0,Group 3,16 Jun 1954,Match 2,Scotland,Austria,1,0,1,0,2,0,0,0,1,0,0,0,0,0,0
+1954 FIFA World Cup Switzerland ™,5-0,Group 1,16 Jun 1954,Match 3,Mexico,Brazil,5,0,1,0,3,0,0,0,1,0,0,0,0,0,0
+1954 FIFA World Cup Switzerland ™,1-0,Group 1,16 Jun 1954,Match 4,France,Yugoslavia,1,0,1,0,4,0,0,0,1,0,0,0,0,0,0
+1954 FIFA World Cup Switzerland ™,4-1,Group 2,17 Jun 1954,Match 5,Turkey,Germany FR,4,1,1,0,5,1,0,0,1,0,1,7,2,7,2
+1954 FIFA World Cup Switzerland ™,9-0,Group 2,17 Jun 1954,Match 8,Korea Republic,Hungary,9,0,1,0,8,0,0,0,1,0,0,0,0,0,0
+1974 FIFA World Cup Germany ™,0-0,Group 3,15 Jun 1974,Match 6,Bulgaria,Sweden,0,0,0,0,6,0,0,0,0,0,0,0,0,0,0
+1974 FIFA World Cup Germany ™,3-1,Group 4,15 Jun 1974,Match 7,Haiti,Italy,3,1,1,0,7,0,0,0,1,0,0,0,0,0,0
+1974 FIFA World Cup Germany ™,3-2,Group 4,15 Jun 1974,Match 8,Argentina,Poland,3,2,1,0,8,0,0,0,1,0,0,0,0,0,0
+1974 FIFA World Cup Germany ™,0-3,Group 1,18 Jun 1974,Match 10,Germany FR,Australia,0,3,0,1,10,0,1,1,0,1,0,0,1,0,0
+1974 FIFA World Cup Germany ™,0-0,Group 2,18 Jun 1974,Match 12,Brazil,Scotland,0,0,0,0,12,1,0,0,0,0,0,2,0,0,0
+1966 FIFA World Cup England ™,5-0,Group 2,12 Jul 1966,Match 2,Switzerland,Germany FR,5,0,1,0,2,0,0,0,1,0,0,0,0,0,0
+1966 FIFA World Cup England ™,2-0,Group 3,12 Jul 1966,Match 3,Bulgaria,Brazil,2,0,1,0,3,0,0,0,1,0,0,0,0,0,0
+1966 FIFA World Cup England ™,3-0,Group 4,12 Jul 1966,Match 4,Korea DPR,Soviet Union,3,0,1,0,4,0,0,0,1,0,0,0,0,0,0
+1966 FIFA World Cup England ™,1-1,Group 1,13 Jul 1966,Match 5,Mexico,France,1,1,0,0,5,0,0,0,0,0,0,0,0,0,0
+2006 FIFA World Cup Germany ™,1-4,Group F,22 Jun 2006,Match 43,Brazil,Japan,1,4,0,1,43,0,2,1,0,1,0,1,3,1,0
+2006 FIFA World Cup Germany ™,2-2,Group F,22 Jun 2006,Match 44,Australia,Croatia,2,2,0,0,44,0,1,0,0,1,1,0,3,0,3
+2006 FIFA World Cup Germany ™,1-0,Group H,23 Jun 2006,Match 48,Tunisia,Ukraine,1,0,1,0,48,1,0,0,1,1,1,4,3,0,3
+2006 FIFA World Cup Germany ™,0-1,Group H,23 Jun 2006,Match 47,Spain,Saudi Arabia,0,1,0,1,47,0,2,1,0,1,0,2,7,2,3
+1962 FIFA World Cup Chile ™,2-0,Group 3,30 May 1962,Match 3,Mexico,Brazil,2,0,1,0,3,0,0,0,1,0,0,0,0,0,0
+1962 FIFA World Cup Chile ™,1-0,Group 4,30 May 1962,Match 4,Bulgaria,Argentina,1,0,1,0,4,0,0,0,1,0,0,0,0,0,0
+1962 FIFA World Cup Chile ™,3-1,Group 2,30 May 1962,Match 2,Switzerland,Chile,3,1,1,0,2,0,0,0,1,0,0,0,0,0,0
+1962 FIFA World Cup Chile ™,2-0,Group 1,31 May 1962,Match 5,Yugoslavia,Soviet Union,2,0,1,0,5,0,0,0,1,0,0,0,0,0,0
+1962 FIFA World Cup Chile ™,1-0,Group 3,31 May 1962,Match 7,Spain,Czechoslovakia,1,0,1,0,7,0,0,0,1,0,0,0,0,0,0
+1958 FIFA World Cup Sweden ™,3-0,Group 4,08 Jun 1958,Match 6,Austria,Brazil,3,0,1,0,6,0,0,0,1,0,0,0,0,0,0
+1958 FIFA World Cup Sweden ™,1-0,Group 1,08 Jun 1958,Match 8,Czechoslovakia,Northern Ireland,1,0,1,0,8,0,0,0,1,0,0,0,0,0,0
+1958 FIFA World Cup Sweden ™,0-0,Group 4,11 Jun 1958,Match 12,England,Brazil,0,0,0,0,12,1,0,0,0,0,0,3,2,0,2
+1958 FIFA World Cup Sweden ™,1-1,Group 3,11 Jun 1958,Match 9,Wales,Mexico,1,1,0,0,9,0,0,0,0,1,0,0,1,0,1
+1958 FIFA World Cup Sweden ™,3-2,Group 2,11 Jun 1958,Match 10,Scotland,Paraguay,3,2,1,0,10,0,0,0,1,1,0,3,1,3,1
+2002 FIFA World Cup Korea/Japan ™,2-3,Group B,12 Jun 2002,Match 39,Spain,South Africa,2,3,0,1,39,1,2,1,0,0,0,3,6,2,6
+2002 FIFA World Cup Korea/Japan ™,2-5,Group C,13 Jun 2002,Match 41,Brazil,Costa Rica,2,5,0,1,41,1,2,1,0,0,0,3,6,1,2
+2002 FIFA World Cup Korea/Japan ™,3-0,Group C,13 Jun 2002,Match 42,China PR,Turkey,3,0,1,0,42,0,0,0,1,1,2,2,0,2,0
+2002 FIFA World Cup Korea/Japan ™,1-0,Group G,13 Jun 2002,Match 44,Croatia,Ecuador,1,0,1,0,44,0,1,0,1,2,1,1,2,1,2
+1986 FIFA World Cup Mexico ™,1-1,Group B,07 Jun 1986,Match 19,Paraguay,Mexico,1,1,0,0,19,1,1,0,0,0,0,2,1,2,0
+1986 FIFA World Cup Mexico ™,1-0,Group F,07 Jun 1986,Match 21,Portugal,Poland,1,0,1,0,21,0,1,0,1,0,0,0,1,0,0
+1986 FIFA World Cup Mexico ™,1-2,Group B,08 Jun 1986,Match 22,Belgium,Iraq,1,2,0,1,22,0,0,1,0,1,1,0,1,0,1
+1986 FIFA World Cup Mexico ™,6-1,Group E,08 Jun 1986,Match 24,Uruguay,Denmark,6,1,1,0,24,1,0,0,1,0,0,1,1,0,1
+1986 FIFA World Cup Mexico ™,2-1,Group E,08 Jun 1986,Match 23,Scotland,Germany FR,2,1,1,0,23,0,0,0,1,0,1,1,0,1,0
+1998 FIFA World Cup France ™,6-1,Group D,24 Jun 1998,Match 37,Bulgaria,Spain,6,1,1,0,37,0,0,0,1,1,1,2,0,2,0
+1998 FIFA World Cup France ™,1-3,Group D,24 Jun 1998,Match 39,Paraguay,Nigeria,1,3,0,1,39,2,0,1,0,0,0,4,0,3,0
+1998 FIFA World Cup France ™,1-1,Group E,25 Jun 1998,Match 41,Korea Republic,Belgium,1,1,0,0,41,0,0,0,0,0,2,2,1,2,1
+1998 FIFA World Cup France ™,2-2,Group E,25 Jun 1998,Match 42,Mexico,Netherlands,2,2,0,0,42,1,1,0,0,0,0,5,5,0,5
+1970 FIFA World Cup Mexico ™,4-1,Group 3,03 Jun 1970,Match 7,Czechoslovakia,Brazil,4,1,1,0,7,0,0,0,1,0,0,0,0,0,0
+1970 FIFA World Cup Mexico ™,3-0,Group 1,03 Jun 1970,Match 5,El Salvador,Belgium,3,0,1,0,5,0,0,0,1,0,0,0,0,0,0
+1970 FIFA World Cup Mexico ™,0-0,Group 2,06 Jun 1970,Match 10,Italy,Uruguay,0,0,0,0,10,1,1,0,0,0,0,2,1,0,0
+1970 FIFA World Cup Mexico ™,3-0,Group 4,06 Jun 1970,Match 12,Morocco,Peru,3,0,1,0,12,1,0,0,1,0,1,3,1,3,1
+1982 FIFA World Cup Spain ™,4-1,Group 6,18 Jun 1982,Match 15,Scotland,Brazil,4,1,1,0,15,1,1,0,1,0,0,2,5,2,5
+1982 FIFA World Cup Spain ™,0-0,Group 1,19 Jun 1982,Match 16,Cameroon,Poland,0,0,0,0,16,0,0,0,0,0,0,0,0,0,0
+1982 FIFA World Cup Spain ™,1-0,Group 3,19 Jun 1982,Match 17,El Salvador,Belgium,1,0,1,0,17,1,0,0,1,0,1,1,1,0,1
+1982 FIFA World Cup Spain ™,3-0,Group 6,19 Jun 1982,Match 18,New Zealand,Soviet Union,3,0,1,0,18,0,0,0,1,1,1,1,2,1,2
+1954 FIFA World Cup Switzerland ™,4-4,Group 4,17 Jun 1954,Match 6,Belgium,England,4,4,0,0,6,0,0,0,0,0,0,0,0,0,0
+1954 FIFA World Cup Switzerland ™,2-1,Group 4,17 Jun 1954,Match 7,Italy,Switzerland,2,1,1,0,7,0,0,0,1,0,0,0,0,0,0
+1954 FIFA World Cup Switzerland ™,7-0,Group 3,19 Jun 1954,Match 12,Scotland,Uruguay,7,0,1,0,12,1,0,0,1,0,1,2,0,0,0
+1954 FIFA World Cup Switzerland ™,5-0,Group 3,19 Jun 1954,Match 9,Czechoslovakia,Austria,5,0,1,0,9,1,0,0,1,0,1,1,0,0,0
+1974 FIFA World Cup Germany ™,1-1,Group 1,18 Jun 1974,Match 9,German DR,Chile,1,1,0,0,9,0,1,0,0,1,0,0,2,0,0
+1974 FIFA World Cup Germany ™,9-0,Group 2,18 Jun 1974,Match 11,Zaire,Yugoslavia,9,0,1,0,11,0,0,0,1,0,1,0,0,0,0
+1974 FIFA World Cup Germany ™,0-0,Group 3,19 Jun 1974,Match 13,Sweden,Netherlands,0,0,0,0,13,1,0,0,0,0,0,2,0,0,0
+1974 FIFA World Cup Germany ™,1-1,Group 3,19 Jun 1974,Match 14,Uruguay,Bulgaria,1,1,0,0,14,0,0,0,0,0,1,0,0,0,0
+1966 FIFA World Cup England ™,3-1,Group 3,13 Jul 1966,Match 7,Hungary,Portugal,3,1,1,0,7,0,0,0,1,0,0,0,0,0,0
+1966 FIFA World Cup England ™,2-1,Group 2,13 Jul 1966,Match 6,Spain,Argentina,2,1,1,0,6,0,0,0,1,0,0,0,0,0,0
+1966 FIFA World Cup England ™,2-0,Group 4,13 Jul 1966,Match 8,Chile,Italy,2,0,1,0,8,0,0,0,1,0,0,0,0,0,0
+1966 FIFA World Cup England ™,2-1,Group 1,15 Jul 1966,Match 9,France,Uruguay,2,1,1,0,9,0,0,0,1,0,0,0,1,0,1
+2006 FIFA World Cup Germany ™,0-2,Group G,23 Jun 2006,Match 45,France,Togo,0,2,0,1,45,0,0,1,0,2,0,1,1,1,1
+2006 FIFA World Cup Germany ™,2-0,Group G,23 Jun 2006,Match 46,Korea Republic,Switzerland,2,0,1,0,46,1,1,0,1,0,0,2,3,0,3
+2006 FIFA World Cup Germany ™,2-0,Round of 16,24 Jun 2006,Match 49,Sweden,Germany,2,0,1,0,49,3,1,0,1,0,0,8,3,4,2
+2006 FIFA World Cup Germany ™,2-1,Round of 16,24 Jun 2006,Match 50,Mexico,Argentina,2,1,1,0,50,2,1,0,1,0,1,8,4,2,4
+2006 FIFA World Cup Germany ™,1-0,Round of 16,25 Jun 2006,Match 51,Ecuador,England,1,0,1,0,51,2,2,0,1,0,1,5,5,2,0
+1962 FIFA World Cup Chile ™,2-1,Group 4,31 May 1962,Match 8,England,Hungary,2,1,1,0,8,0,0,0,1,0,0,0,0,0,0
+1962 FIFA World Cup Chile ™,0-0,Group 2,31 May 1962,Match 6,Italy,Germany FR,0,0,0,0,6,0,0,0,0,0,0,0,0,0,0
+1962 FIFA World Cup Chile ™,3-1,Group 1,02 Jun 1962,Match 9,Uruguay,Yugoslavia,3,1,1,0,9,0,1,0,1,1,0,0,2,0,2
+1962 FIFA World Cup Chile ™,0-0,Group 3,02 Jun 1962,Match 11,Czechoslovakia,Brazil,0,0,0,0,11,1,1,0,0,0,0,2,1,0,0
+1962 FIFA World Cup Chile ™,3-1,Group 4,02 Jun 1962,Match 12,Argentina,England,3,1,1,0,12,0,1,0,1,1,0,1,1,1,0
+1958 FIFA World Cup Sweden ™,3-2,Group 2,11 Jun 1958,Match 11,France,Yugoslavia,3,2,1,0,11,0,1,0,1,0,0,1,7,1,7
+1958 FIFA World Cup Sweden ™,2-0,Group 4,11 Jun 1958,Match 13,Austria,Soviet Union,2,0,1,0,13,0,0,0,1,0,1,2,0,2,0
+1958 FIFA World Cup Sweden ™,2-2,Group 1,11 Jun 1958,Match 14,Czechoslovakia,Germany FR,2,2,0,0,14,1,0,0,0,0,1,3,0,3,0
+1958 FIFA World Cup Sweden ™,3-1,Group 1,11 Jun 1958,Match 15,Northern Ireland,Argentina,3,1,1,0,15,0,1,0,1,1,0,1,1,1,0
+2002 FIFA World Cup Korea/Japan ™,1-1,Group G,13 Jun 2002,Match 43,Italy,Mexico,1,1,0,0,43,2,1,0,0,0,1,3,3,2,1
+2002 FIFA World Cup Korea/Japan ™,0-2,Group H,14 Jun 2002,Match 45,Japan,Tunisia,0,2,0,1,45,0,1,1,0,1,0,1,3,1,2
+2002 FIFA World Cup Korea/Japan ™,0-1,Group D,14 Jun 2002,Match 47,Korea Republic,Portugal,0,1,0,1,47,1,1,1,0,1,0,6,3,2,1
+2002 FIFA World Cup Korea/Japan ™,3-1,Group D,14 Jun 2002,Match 48,USA,Poland,3,1,1,0,48,0,1,0,1,2,0,0,4,0,4
+1986 FIFA World Cup Mexico ™,0-3,Group C,09 Jun 1986,Match 25,France,Hungary,0,3,0,1,25,1,1,1,0,1,0,2,2,0,1
+1986 FIFA World Cup Mexico ™,2-0,Group C,09 Jun 1986,Match 26,Canada,Soviet Union,2,0,1,0,26,1,0,0,1,0,2,7,0,1,0
+1986 FIFA World Cup Mexico ™,2-3,Group A,10 Jun 1986,Match 27,Italy,Korea Republic,2,3,0,1,27,0,0,1,0,1,0,2,2,2,2
+1986 FIFA World Cup Mexico ™,2-0,Group A,10 Jun 1986,Match 28,Bulgaria,Argentina,2,0,1,0,28,1,0,0,1,0,0,4,2,4,2
+1986 FIFA World Cup Mexico ™,2-2,Group B,11 Jun 1986,Match 30,Belgium,Paraguay,2,2,0,0,30,1,1,0,0,0,1,2,3,1,3
+1998 FIFA World Cup France ™,2-0,Group F,25 Jun 1998,Match 43,Iran,Germany,2,0,1,0,43,1,1,0,1,0,1,4,2,2,2
+1998 FIFA World Cup France ™,0-1,Group F,25 Jun 1998,Match 44,Yugoslavia,USA,0,1,0,1,44,0,1,1,0,2,0,1,3,1,2
+1998 FIFA World Cup France ™,1-2,Group H,26 Jun 1998,Match 47,Jamaica,Japan,1,2,0,1,47,0,0,1,0,2,2,0,1,0,1
+1998 FIFA World Cup France ™,1-0,Group H,26 Jun 1998,Match 48,Croatia,Argentina,1,0,1,0,48,2,2,0,1,0,0,6,4,0,3
+1998 FIFA World Cup France ™,1-1,Group G,26 Jun 1998,Match 45,Tunisia,Romania,1,1,0,0,45,2,0,0,0,0,2,3,0,2,0
+1970 FIFA World Cup Mexico ™,2-1,Group 3,06 Jun 1970,Match 11,Czechoslovakia,Romania,2,1,1,0,11,0,0,0,1,1,1,0,1,0,1
+1970 FIFA World Cup Mexico ™,4-1,Group 1,06 Jun 1970,Match 9,Belgium,Soviet Union,4,1,1,0,9,0,1,0,1,0,0,0,3,0,0
+1970 FIFA World Cup Mexico ™,1-1,Group 2,07 Jun 1970,Match 14,Israel,Sweden,1,1,0,0,14,0,0,0,0,1,1,0,0,0,0
+1970 FIFA World Cup Mexico ™,5-2,Group 4,07 Jun 1970,Match 16,Bulgaria,Germany FR,5,2,1,0,16,1,0,0,1,0,1,2,2,2,2
+1982 FIFA World Cup Spain ™,4-1,Group 2,20 Jun 1982,Match 19,Chile,Germany FR,4,1,1,0,19,0,0,0,1,1,1,1,0,1,0
+1982 FIFA World Cup Spain ™,2-0,Group 4,20 Jun 1982,Match 20,Czechoslovakia,England,2,0,1,0,20,1,0,0,1,0,0,3,1,3,1
+1982 FIFA World Cup Spain ™,2-1,Group 5,20 Jun 1982,Match 21,Yugoslavia,Spain,2,1,1,0,21,0,0,0,1,0,0,1,0,1,0
+1982 FIFA World Cup Spain ™,0-2,Group 2,21 Jun 1982,Match 22,Austria,Algeria,0,2,0,1,22,1,1,1,0,0,0,2,1,2,0
+1982 FIFA World Cup Spain ™,4-1,Group 4,21 Jun 1982,Match 23,Kuwait,France,4,1,1,0,23,0,0,0,1,1,0,1,1,1,1
+1954 FIFA World Cup Switzerland ™,3-2,Group 1,19 Jun 1954,Match 11,Mexico,France,3,2,1,0,11,0,0,0,1,1,1,0,0,0,0
+1954 FIFA World Cup Switzerland ™,1-1,Group 1,19 Jun 1954,Match 10,Yugoslavia,Brazil,1,1,0,0,10,1,1,0,0,0,0,5,1,0,0
+1954 FIFA World Cup Switzerland ™,8-3,Group 2,20 Jun 1954,Match 14,Germany FR,Hungary,8,3,1,0,14,1,2,0,1,0,0,9,11,0,11
+1954 FIFA World Cup Switzerland ™,7-0,Group 2,20 Jun 1954,Match 15,Korea Republic,Turkey,7,0,1,0,15,0,0,0,1,2,1,3,0,3,0
+1954 FIFA World Cup Switzerland ™,2-0,Group 4,20 Jun 1954,Match 13,Switzerland,England,2,0,1,0,13,0,1,0,1,0,0,4,2,4,2
+1974 FIFA World Cup Germany ™,0-7,Group 4,19 Jun 1974,Match 15,Poland,Haiti,0,7,0,1,15,0,1,1,0,1,0,1,3,1,3
+1974 FIFA World Cup Germany ™,1-1,Group 4,19 Jun 1974,Match 16,Italy,Argentina,1,1,0,0,16,0,1,0,0,1,0,2,3,2,3
+1974 FIFA World Cup Germany ™,1-1,Group 2,22 Jun 1974,Match 19,Yugoslavia,Scotland,1,1,0,0,19,1,1,0,0,0,0,2,9,0,0
+1974 FIFA World Cup Germany ™,0-0,Group 1,22 Jun 1974,Match 17,Chile,Australia,0,0,0,0,17,0,0,0,0,2,1,0,1,0,1
+1974 FIFA World Cup Germany ™,0-3,Group 2,22 Jun 1974,Match 20,Brazil,Zaire,0,3,0,1,20,0,0,1,0,2,0,0,0,0,0
+1950 FIFA World Cup Brazil ™,4-0,Group 1,24 Jun 1950,Match 1,Mexico,Brazil,4,0,1,0,1,0,0,0,1,0,0,0,0,0,0
+1966 FIFA World Cup England ™,2-1,Group 2,15 Jul 1966,Match 10,Switzerland,Spain,2,1,1,0,10,0,0,0,1,1,1,1,0,1,0
+1966 FIFA World Cup England ™,3-1,Group 3,15 Jul 1966,Match 11,Brazil,Hungary,3,1,1,0,11,0,1,0,1,1,0,1,2,1,0
+1966 FIFA World Cup England ™,1-1,Group 4,15 Jul 1966,Match 12,Chile,Korea DPR,1,1,0,0,12,0,0,0,0,1,1,0,0,0,0
+1966 FIFA World Cup England ™,3-0,Group 3,16 Jul 1966,Match 15,Bulgaria,Portugal,3,0,1,0,15,1,0,0,1,0,1,3,0,3,0
+1966 FIFA World Cup England ™,0-0,Group 2,16 Jul 1966,Match 14,Argentina,Germany FR,0,0,0,0,14,1,1,0,0,0,0,5,2,0,2
+1938 FIFA World Cup France ™,1-1,First round,04 Jun 1938,Match 1,Germany,Switzerland,1,1,0,0,1,0,0,0,0,0,0,0,0,0,0
+2006 FIFA World Cup Germany ™,1-0,Round of 16,25 Jun 2006,Match 52,Netherlands,Portugal,1,0,1,0,52,3,2,0,1,0,0,5,3,2,2
+2006 FIFA World Cup Germany ™,1-0,Round of 16,26 Jun 2006,Match 53,Australia,Italy,1,0,1,0,53,2,1,0,1,0,1,5,5,1,5
+2006 FIFA World Cup Germany ™,0-0,Round of 16,26 Jun 2006,Match 54,Ukraine,Switzerland,0,0,0,0,54,2,2,0,0,0,1,4,5,0,0
+2006 FIFA World Cup Germany ™,3-0,Round of 16,27 Jun 2006,Match 55,Ghana,Brazil,3,0,1,0,55,3,2,0,1,0,1,7,4,4,2
+2006 FIFA World Cup Germany ™,1-3,Round of 16,27 Jun 2006,Match 56,France,Spain,1,3,0,1,56,3,1,1,0,0,0,8,3,3,1
+1962 FIFA World Cup Chile ™,2-0,Group 2,02 Jun 1962,Match 10,Italy,Chile,2,0,1,0,10,1,0,0,1,0,0,3,0,3,0
+1962 FIFA World Cup Chile ™,4-4,Group 1,03 Jun 1962,Match 13,Colombia,Soviet Union,4,4,0,0,13,1,0,0,0,0,1,2,1,0,1
+1962 FIFA World Cup Chile ™,1-0,Group 3,03 Jun 1962,Match 15,Mexico,Spain,1,0,1,0,15,0,0,0,1,1,1,0,0,0,0
+1962 FIFA World Cup Chile ™,6-1,Group 4,03 Jun 1962,Match 16,Bulgaria,Hungary,6,1,1,0,16,1,0,0,1,0,1,2,0,2,0
+1962 FIFA World Cup Chile ™,2-1,Group 2,03 Jun 1962,Match 14,Switzerland,Germany FR,2,1,1,0,14,0,0,0,1,0,1,0,1,0,1
+1958 FIFA World Cup Sweden ™,2-1,Group 3,12 Jun 1958,Match 16,Hungary,Sweden,2,1,1,0,16,1,0,0,1,0,0,3,1,0,1
+1958 FIFA World Cup Sweden ™,0-0,Group 3,15 Jun 1958,Match 17,Wales,Sweden,0,0,0,0,17,2,0,0,0,0,0,5,2,2,2
+1958 FIFA World Cup Sweden ™,2-0,Group 4,15 Jun 1958,Match 21,Soviet Union,Brazil,2,0,1,0,21,1,1,0,1,0,0,3,4,0,2
+1958 FIFA World Cup Sweden ™,2-2,Group 1,15 Jun 1958,Match 23,Northern Ireland,Germany FR,2,2,0,0,23,1,1,0,0,0,1,5,2,5,1
+2002 FIFA World Cup Korea/Japan ™,3-2,Group H,14 Jun 2002,Match 46,Russia,Belgium,3,2,1,0,46,0,1,0,1,0,1,3,2,3,0
+2002 FIFA World Cup Korea/Japan ™,0-3,Round of 16,15 Jun 2002,Match 50,England,Denmark,0,3,0,1,50,2,1,1,0,0,0,5,2,3,1
+2002 FIFA World Cup Korea/Japan ™,1-0,Round of 16,15 Jun 2002,Match 49,Paraguay,Germany,1,0,1,0,49,2,1,0,1,0,1,11,6,1,6
+2002 FIFA World Cup Korea/Japan ™,1-1,Round of 16,16 Jun 2002,Match 52,Republic of Ireland,Spain,1,1,0,0,52,3,1,0,0,0,0,9,5,9,2
+2002 FIFA World Cup Korea/Japan ™,1-2,Round of 16,16 Jun 2002,Match 51,Senegal,Sweden,1,2,0,1,51,1,1,1,0,0,0,4,5,4,4
+1986 FIFA World Cup Mexico ™,0-1,Group B,11 Jun 1986,Match 29,Mexico,Iraq,0,1,0,1,29,0,1,1,0,2,0,1,3,1,3
+1986 FIFA World Cup Mexico ™,1-3,Group F,11 Jun 1986,Match 31,Morocco,Portugal,1,3,0,1,31,1,0,1,0,1,0,1,0,0,0
+1986 FIFA World Cup Mexico ™,3-0,Group F,11 Jun 1986,Match 32,Poland,England,3,0,1,0,32,0,1,0,1,1,0,0,1,0,0
+1986 FIFA World Cup Mexico ™,0-3,Group D,12 Jun 1986,Match 33,Brazil,Northern Ireland,0,3,0,1,33,0,2,1,0,1,0,2,2,2,0
+1986 FIFA World Cup Mexico ™,0-3,Group D,12 Jun 1986,Match 34,Spain,Algeria,0,3,0,1,34,0,1,1,0,1,1,1,2,1,2
+1998 FIFA World Cup France ™,0-2,Group G,26 Jun 1998,Match 46,England,Colombia,0,2,0,1,46,1,1,1,0,1,1,1,3,0,1
+1998 FIFA World Cup France ™,1-0,Round of 16,27 Jun 1998,Match 50,Norway,Italy,1,0,1,0,50,2,1,0,1,0,0,7,5,4,5
+1998 FIFA World Cup France ™,4-1,Round of 16,27 Jun 1998,Match 49,Chile,Brazil,4,1,1,0,49,2,0,0,1,1,0,6,4,3,4
+1998 FIFA World Cup France ™,1-0,Round of 16,28 Jun 1998,Match 52,Paraguay,France,1,0,1,0,52,3,1,0,1,0,0,9,3,2,3
+1998 FIFA World Cup France ™,1-4,Round of 16,28 Jun 1998,Match 51,Denmark,Nigeria,1,4,0,1,51,2,1,1,0,1,1,5,3,4,2
+1970 FIFA World Cup Mexico ™,1-0,Group 3,07 Jun 1970,Match 15,England,Brazil,1,0,1,0,15,1,1,0,1,0,0,4,1,4,0
+1970 FIFA World Cup Mexico ™,4-0,Group 1,07 Jun 1970,Match 13,El Salvador,Mexico,4,0,1,0,13,0,0,0,1,0,1,0,0,0,0
+1970 FIFA World Cup Mexico ™,1-0,Group 2,10 Jun 1970,Match 18,Uruguay,Sweden,1,0,1,0,18,0,1,0,1,1,0,1,2,1,0
+1970 FIFA World Cup Mexico ™,3-1,Group 4,10 Jun 1970,Match 20,Peru,Germany FR,3,1,1,0,20,2,2,0,1,0,0,7,6,7,3
+1970 FIFA World Cup Mexico ™,3-2,Group 3,10 Jun 1970,Match 19,Romania,Brazil,3,2,1,0,19,2,1,0,1,0,1,5,2,4,2
+1982 FIFA World Cup Spain ™,1-1,Group 5,21 Jun 1982,Match 24,Northern Ireland,Honduras,1,1,0,0,24,0,0,0,0,0,0,1,0,1,0
+1982 FIFA World Cup Spain ™,5-1,Group 1,22 Jun 1982,Match 25,Peru,Poland,5,1,1,0,25,0,0,0,1,0,0,0,1,0,1
+1982 FIFA World Cup Spain ™,1-1,Group 3,22 Jun 1982,Match 26,Hungary,Belgium,1,1,0,0,26,2,1,0,0,0,1,2,11,0,11
+1982 FIFA World Cup Spain ™,2-2,Group 6,22 Jun 1982,Match 27,Scotland,Soviet Union,2,2,0,0,27,1,1,0,0,1,1,4,6,1,6
+1982 FIFA World Cup Spain ™,1-1,Group 1,23 Jun 1982,Match 28,Cameroon,Italy,1,1,0,0,28,0,0,0,0,0,0,1,0,1,0
+1954 FIFA World Cup Switzerland ™,4-1,Group 4,20 Jun 1954,Match 16,Belgium,Italy,4,1,1,0,16,0,0,0,1,1,0,1,4,1,4
+1954 FIFA World Cup Switzerland ™,7-2,Group 2,23 Jun 1954,Match 0,Turkey,Germany FR,7,2,1,0,0,0,0,0,1,0,0,0,0,0,0
+1954 FIFA World Cup Switzerland ™,4-1,Group 4,23 Jun 1954,Match 211,Italy,Switzerland,4,1,1,0,211,1,1,0,1,2,1,7,5,7,5
+1954 FIFA World Cup Switzerland ™,4-2,Quarter-finals,26 Jun 1954,Match 20,England,Uruguay,4,2,1,0,20,2,1,0,1,0,0,9,6,0,4
+1954 FIFA World Cup Switzerland ™,7-5,Quarter-finals,26 Jun 1954,Match 19,Switzerland,Austria,7,5,1,0,19,2,1,0,1,0,1,6,2,0,2
+1974 FIFA World Cup Germany ™,1-0,Group 1,22 Jun 1974,Match 18,Germany FR,German DR,1,0,1,0,18,1,2,0,1,0,0,3,4,1,0
+1974 FIFA World Cup Germany ™,1-4,Group 3,23 Jun 1974,Match 21,Netherlands,Bulgaria,1,4,0,1,21,0,1,1,0,0,0,1,2,1,0
+1974 FIFA World Cup Germany ™,4-1,Group 4,23 Jun 1974,Match 23,Haiti,Argentina,4,1,1,0,23,0,0,0,1,1,2,3,1,3,1
+1974 FIFA World Cup Germany ™,3-0,Group 3,23 Jun 1974,Match 22,Uruguay,Sweden,3,0,1,0,22,0,0,0,1,0,1,0,1,0,1
+1950 FIFA World Cup Brazil ™,2-0,Group 2,25 Jun 1950,Match 2,Chile,England,2,0,1,0,2,0,0,0,1,0,0,0,0,0,0
+1950 FIFA World Cup Brazil ™,3-1,Group 2,25 Jun 1950,Match 3,USA,Spain,3,1,1,0,3,0,0,0,1,0,0,0,0,0,0
+1950 FIFA World Cup Brazil ™,3-2,Group 3,25 Jun 1950,Match 4,Italy,Sweden,3,2,1,0,4,0,0,0,1,0,0,0,0,0,0
+1950 FIFA World Cup Brazil ™,3-0,Group 1,25 Jun 1950,Match 5,Switzerland,Yugoslavia,3,0,1,0,5,0,0,0,1,0,0,0,0,0,0
+1934 FIFA World Cup Italy ™,3-2,Preliminary round,27 May 1934,Match 2,France,Austria,3,2,1,0,2,0,0,0,1,0,0,0,0,0,0
+1930 FIFA World Cup Uruguay ™,4-1,Group 1,13 Jul 1930,Match 1,Mexico,France,4,1,1,0,1,0,0,0,1,0,0,0,0,0,0
+1966 FIFA World Cup England ™,1-0,Group 4,16 Jul 1966,Match 16,Italy,Soviet Union,1,0,1,0,16,1,1,0,1,0,0,3,2,0,0
+1966 FIFA World Cup England ™,2-0,Group 1,16 Jul 1966,Match 13,Mexico,England,2,0,1,0,13,0,0,0,1,0,0,0,1,0,1
+1966 FIFA World Cup England ™,0-0,Group 1,19 Jul 1966,Match 17,Mexico,Uruguay,0,0,0,0,17,1,0,0,0,0,1,2,1,2,1
+1966 FIFA World Cup England ™,2-0,Group 2,19 Jul 1966,Match 18,Switzerland,Argentina,2,0,1,0,18,1,0,0,1,0,2,2,1,2,1
+1966 FIFA World Cup England ™,3-1,Group 3,19 Jul 1966,Match 19,Brazil,Portugal,3,1,1,0,19,2,1,0,1,0,1,6,3,3,1
+1938 FIFA World Cup France ™,6-0,First round,05 Jun 1938,Match 2,Dutch East Indies,Hungary,6,0,1,0,2,0,0,0,1,0,0,0,0,0,0
+1938 FIFA World Cup France ™,3-1,First round,05 Jun 1938,Match 3,Belgium,France,3,1,1,0,3,0,0,0,1,0,0,0,0,0,0
+1938 FIFA World Cup France ™,3-3,First round,05 Jun 1938,Match 4,Romania,Cuba,3,3,0,0,4,0,0,0,0,0,0,0,0,0,0
+1938 FIFA World Cup France ™,2-1,First round,05 Jun 1938,Match 5,Norway,Italy,2,1,1,0,5,0,0,0,1,0,0,0,0,0,0
+1938 FIFA World Cup France ™,6-5,First round,05 Jun 1938,Match 6,Poland,Brazil,6,5,1,0,6,0,0,0,1,0,0,0,0,0,0
+2006 FIFA World Cup Germany ™,1-1,Quarter-finals,30 Jun 2006,Match 57,Argentina,Germany,1,1,0,0,57,4,3,0,0,0,0,10,10,4,4
+2006 FIFA World Cup Germany ™,3-0,Quarter-finals,30 Jun 2006,Match 58,Ukraine,Italy,3,0,1,0,58,3,2,0,1,0,1,6,5,1,0
+2006 FIFA World Cup Germany ™,0-0,Quarter-finals,01 Jul 2006,Match 59,Portugal,England,0,0,0,0,59,3,4,0,0,0,0,6,6,2,2
+2006 FIFA World Cup Germany ™,0-1,Quarter-finals,01 Jul 2006,Match 60,France,Brazil,0,1,0,1,60,4,2,1,0,0,0,10,6,4,4
+1962 FIFA World Cup Chile ™,2-1,Group 1,06 Jun 1962,Match 17,Uruguay,Soviet Union,2,1,1,0,17,1,1,0,1,0,1,6,3,4,3
+1962 FIFA World Cup Chile ™,2-1,Group 3,06 Jun 1962,Match 19,Spain,Brazil,2,1,1,0,19,1,1,0,1,0,1,2,1,0,0
+1962 FIFA World Cup Chile ™,0-0,Group 4,06 Jun 1962,Match 20,Argentina,Hungary,0,0,0,0,20,2,1,0,0,0,1,8,2,8,1
+1962 FIFA World Cup Chile ™,2-0,Group 2,06 Jun 1962,Match 18,Chile,Germany FR,2,0,1,0,18,1,2,0,1,0,0,2,5,2,3
+1962 FIFA World Cup Chile ™,5-0,Group 1,07 Jun 1962,Match 21,Colombia,Yugoslavia,5,0,1,0,21,1,0,0,1,1,1,3,5,3,5
+1958 FIFA World Cup Sweden ™,4-0,Group 3,15 Jun 1958,Match 18,Mexico,Hungary,4,0,1,0,18,0,0,0,1,1,1,2,1,2,1
+1958 FIFA World Cup Sweden ™,3-3,Group 2,15 Jun 1958,Match 19,Yugoslavia,Paraguay,3,3,0,0,19,1,1,0,0,1,0,6,4,6,4
+1958 FIFA World Cup Sweden ™,2-1,Group 2,15 Jun 1958,Match 20,Scotland,France,2,1,1,0,20,1,0,0,1,1,1,9,3,9,3
+1958 FIFA World Cup Sweden ™,2-2,Group 4,15 Jun 1958,Match 22,Austria,England,2,2,0,0,22,0,0,0,0,0,2,2,0,2,0
+1958 FIFA World Cup Sweden ™,6-1,Group 1,15 Jun 1958,Match 24,Argentina,Czechoslovakia,6,1,1,0,24,0,1,0,1,1,1,2,4,2,4
+2002 FIFA World Cup Korea/Japan ™,2-0,Round of 16,17 Jun 2002,Match 54,Belgium,Brazil,2,0,1,0,54,3,1,0,1,0,0,11,6,7,6
+2002 FIFA World Cup Korea/Japan ™,0-2,Round of 16,17 Jun 2002,Match 53,USA,Mexico,0,2,0,1,53,2,1,1,0,0,1,4,5,3,5
+2002 FIFA World Cup Korea/Japan ™,0-1,Round of 16,18 Jun 2002,Match 55,Turkey,Japan,0,1,0,1,55,2,1,1,0,0,1,5,5,2,2
+2002 FIFA World Cup Korea/Japan ™,2-1,Round of 16,18 Jun 2002,Match 56,Italy,Korea Republic,2,1,1,0,56,2,1,0,1,0,1,4,4,1,2
+1986 FIFA World Cup Mexico ™,0-0,Group E,13 Jun 1986,Match 36,Uruguay,Scotland,0,0,0,0,36,0,0,0,0,2,1,1,2,1,2
+1986 FIFA World Cup Mexico ™,2-0,Group E,13 Jun 1986,Match 35,Germany FR,Denmark,2,0,1,0,35,2,1,0,1,0,0,7,3,6,3
+1986 FIFA World Cup Mexico ™,3-4,Round of 16,15 Jun 1986,Match 38,Belgium,Soviet Union,3,4,0,1,38,2,1,1,0,0,1,9,5,1,5
+1986 FIFA World Cup Mexico ™,2-0,Round of 16,15 Jun 1986,Match 37,Bulgaria,Mexico,2,0,1,0,37,2,0,0,1,0,1,4,2,3,2
+1998 FIFA World Cup France ™,2-1,Round of 16,29 Jun 1998,Match 53,Mexico,Germany,2,1,1,0,53,2,1,0,1,0,0,6,7,2,7
+1998 FIFA World Cup France ™,2-1,Round of 16,29 Jun 1998,Match 54,Yugoslavia,Netherlands,2,1,1,0,54,1,2,0,1,0,0,7,4,2,2
+1998 FIFA World Cup France ™,0-1,Round of 16,30 Jun 1998,Match 56,Croatia,Romania,0,1,0,1,56,2,2,1,0,0,1,4,4,3,3
+1998 FIFA World Cup France ™,2-2,Round of 16,30 Jun 1998,Match 55,England,Argentina,2,2,0,0,55,3,2,0,0,0,1,7,5,0,1
+1998 FIFA World Cup France ™,0-0,Quarter-finals,03 Jul 1998,Match 57,France,Italy,0,0,0,0,57,3,4,0,0,0,0,8,10,4,2
+1970 FIFA World Cup Mexico ™,2-0,Group 1,10 Jun 1970,Match 17,El Salvador,Soviet Union,2,0,1,0,17,1,0,0,1,0,2,4,0,4,0
+1970 FIFA World Cup Mexico ™,0-0,Group 2,11 Jun 1970,Match 22,Israel,Italy,0,0,0,0,22,1,0,0,0,0,1,1,1,0,1
+1970 FIFA World Cup Mexico ™,1-1,Group 4,11 Jun 1970,Match 24,Morocco,Bulgaria,1,1,0,0,24,0,0,0,0,2,2,4,1,4,1
+1970 FIFA World Cup Mexico ™,1-0,Group 3,11 Jun 1970,Match 23,Czechoslovakia,England,1,0,1,0,23,1,0,0,1,1,2,1,2,0,2
+1970 FIFA World Cup Mexico ™,1-0,Group 1,11 Jun 1970,Match 21,Belgium,Mexico,1,0,1,0,21,1,1,0,1,0,1,4,4,0,1
+1982 FIFA World Cup Spain ™,2-0,Group 3,23 Jun 1982,Match 29,El Salvador,Argentina,2,0,1,0,29,1,0,0,1,1,2,4,1,4,1
+1982 FIFA World Cup Spain ™,4-0,Group 6,23 Jun 1982,Match 30,New Zealand,Brazil,4,0,1,0,30,2,0,0,1,0,2,6,2,6,2
+1982 FIFA World Cup Spain ™,3-2,Group 2,24 Jun 1982,Match 31,Chile,Algeria,3,2,1,0,31,1,0,0,1,1,2,2,1,2,1
+1982 FIFA World Cup Spain ™,1-1,Group 4,24 Jun 1982,Match 32,Czechoslovakia,France,1,1,0,0,32,1,0,0,0,1,1,5,1,5,1
+1954 FIFA World Cup Switzerland ™,2-0,Quarter-finals,27 Jun 1954,Match 17,Yugoslavia,Germany FR,2,0,1,0,17,2,1,0,1,1,0,14,2,14,1
+1954 FIFA World Cup Switzerland ™,4-2,Quarter-finals,27 Jun 1954,Match 18,Brazil,Hungary,4,2,1,0,18,2,1,0,1,0,0,17,6,8,1
+1954 FIFA World Cup Switzerland ™,6-1,Semi-finals,30 Jun 1954,Match 21,Austria,Germany FR,6,1,1,0,21,3,3,0,1,1,0,16,13,14,7
+1954 FIFA World Cup Switzerland ™,4-2,Semi-finals,30 Jun 1954,Match 22,Uruguay,Hungary,4,2,1,0,22,3,3,0,1,0,0,21,13,12,4
+1954 FIFA World Cup Switzerland ™,3-1,Match for third place,03 Jul 1954,Match 23,Uruguay,Austria,3,1,1,0,23,3,3,0,1,1,1,14,15,8,6
+1974 FIFA World Cup Germany ™,2-1,Group 4,23 Jun 1974,Match 24,Italy,Poland,2,1,1,0,24,2,1,0,1,0,0,10,4,3,4
+1974 FIFA World Cup Germany ™,0-2,Group B,26 Jun 1974,Match 27,Germany FR,Yugoslavia,0,2,0,1,27,1,2,1,0,0,1,10,4,1,0
+1974 FIFA World Cup Germany ™,1-0,Group A,26 Jun 1974,Match 25,German DR,Brazil,1,0,1,0,25,1,2,0,1,0,0,3,4,0,1
+1974 FIFA World Cup Germany ™,4-0,Group A,26 Jun 1974,Match 26,Argentina,Netherlands,4,0,1,0,26,2,1,0,1,0,1,6,7,4,7
+1974 FIFA World Cup Germany ™,0-1,Group B,26 Jun 1974,Match 28,Poland,Sweden,0,1,0,1,28,1,3,1,0,0,0,3,12,0,5
+1950 FIFA World Cup Brazil ™,2-2,Group 1,28 Jun 1950,Match 6,Switzerland,Brazil,2,2,0,0,6,1,0,0,0,0,1,4,0,0,0
+1950 FIFA World Cup Brazil ™,4-1,Group 1,28 Jun 1950,Match 7,Mexico,Yugoslavia,4,1,1,0,7,1,0,0,1,0,1,3,0,0,0
+1950 FIFA World Cup Brazil ™,2-0,Group 2,29 Jun 1950,Match 8,Chile,Spain,2,0,1,0,8,1,0,0,1,0,1,3,0,3,0
+1950 FIFA World Cup Brazil ™,2-2,Group 3,29 Jun 1950,Match 9,Paraguay,Sweden,2,2,0,0,9,1,0,0,0,0,0,3,0,3,0
+1934 FIFA World Cup Italy ™,4-2,Preliminary round,27 May 1934,Match 5,Egypt,Hungary,4,2,1,0,5,0,0,0,1,0,0,0,0,0,0
+1934 FIFA World Cup Italy ™,3-2,Preliminary round,27 May 1934,Match 6,Netherlands,Switzerland,3,2,1,0,6,0,0,0,1,0,0,0,0,0,0
+1934 FIFA World Cup Italy ™,3-2,Preliminary round,27 May 1934,Match 1,Argentina,Sweden,3,2,1,0,1,0,0,0,1,0,0,0,0,0,0
+1934 FIFA World Cup Italy ™,5-2,Preliminary round,27 May 1934,Match 3,Belgium,Germany,5,2,1,0,3,0,0,0,1,0,0,0,0,0,0
+1934 FIFA World Cup Italy ™,3-1,Preliminary round,27 May 1934,Match 4,Brazil,Spain,3,1,1,0,4,0,0,0,1,0,0,0,0,0,0
+1930 FIFA World Cup Uruguay ™,3-0,Group 4,13 Jul 1930,Match 2,Belgium,USA,3,0,1,0,2,0,0,0,1,0,0,0,0,0,0
+1930 FIFA World Cup Uruguay ™,2-1,Group 2,14 Jul 1930,Match 3,Brazil,Yugoslavia,2,1,1,0,3,0,0,0,1,0,0,0,0,0,0
+1930 FIFA World Cup Uruguay ™,3-1,Group 3,14 Jul 1930,Match 4,Peru,Romania,3,1,1,0,4,0,0,0,1,0,0,0,0,0,0
+1930 FIFA World Cup Uruguay ™,1-0,Group 1,15 Jul 1930,Match 5,France,Argentina,1,0,1,0,5,0,1,0,1,0,0,0,4,0,4
+1966 FIFA World Cup England ™,1-0,Group 4,19 Jul 1966,Match 20,Italy,Korea DPR,1,0,1,0,20,0,1,0,1,1,1,1,2,1,0
+1966 FIFA World Cup England ™,2-0,Group 1,20 Jul 1966,Match 21,France,England,2,0,1,0,21,1,0,0,1,0,1,2,2,0,2
+1966 FIFA World Cup England ™,3-1,Group 3,20 Jul 1966,Match 23,Bulgaria,Hungary,3,1,1,0,23,1,0,0,1,1,2,4,0,4,0
+1966 FIFA World Cup England ™,2-1,Group 2,20 Jul 1966,Match 22,Spain,Germany FR,2,1,1,0,22,1,1,0,1,0,1,5,3,0,3
+1966 FIFA World Cup England ™,2-1,Group 4,20 Jul 1966,Match 24,Chile,Soviet Union,2,1,1,0,24,2,0,0,1,0,1,4,1,0,1
+1938 FIFA World Cup France ™,3-0,First round,05 Jun 1938,Match 7,Netherlands,Czechoslovakia,3,0,1,0,7,0,0,0,1,0,0,0,0,0,0
+1938 FIFA World Cup France ™,2-1,First round,09 Jun 1938,Match 8,Romania,Cuba,2,1,1,0,8,0,0,0,1,0,0,3,3,3,3
+1938 FIFA World Cup France ™,4-2,First round,09 Jun 1938,Match 9,Germany,Switzerland,4,2,1,0,9,0,0,0,1,0,0,1,1,1,1
+1938 FIFA World Cup France ™,1-1,Quarter-finals,12 Jun 1938,Match 10,Czechoslovakia,Brazil,1,1,0,0,10,1,1,0,0,0,0,6,3,6,0
+2006 FIFA World Cup Germany ™,0-2,Semi-finals,04 Jul 2006,Match 61,Italy,Germany,0,2,0,1,61,4,4,1,0,0,0,11,9,5,1
+2006 FIFA World Cup Germany ™,0-1,Semi-finals,05 Jul 2006,Match 62,France,Portugal,0,1,0,1,62,4,3,1,0,0,0,6,7,2,4
+2006 FIFA World Cup Germany ™,3-1,Third place,08 Jul 2006,Match 63,Portugal,Germany,3,1,1,0,63,4,4,0,1,1,1,11,6,5,2
+2006 FIFA World Cup Germany ™,1-1,Final,09 Jul 2006,Match 64,France,Italy,1,1,0,0,64,5,4,0,0,0,0,11,8,1,4
+1962 FIFA World Cup Chile ™,3-1,Group 3,07 Jun 1962,Match 23,Czechoslovakia,Mexico,3,1,1,0,23,0,1,0,1,2,0,0,1,0,0
+1962 FIFA World Cup Chile ™,0-0,Group 4,07 Jun 1962,Match 24,Bulgaria,England,0,0,0,0,24,1,0,0,0,1,2,4,1,4,1
+1962 FIFA World Cup Chile ™,3-0,Group 2,07 Jun 1962,Match 22,Switzerland,Italy,3,0,1,0,22,0,0,0,1,1,2,0,2,0,2
+1962 FIFA World Cup Chile ™,2-1,Quarter-finals,10 Jun 1962,Match 25,Soviet Union,Chile,2,1,1,0,25,2,2,0,1,1,0,5,8,3,6
+1962 FIFA World Cup Chile ™,3-1,Quarter-finals,10 Jun 1962,Match 27,England,Brazil,3,1,1,0,27,2,1,0,1,0,1,4,4,2,4
+1958 FIFA World Cup Sweden ™,1-0,Group 4,17 Jun 1958,Match 37,England,Soviet Union,1,0,1,0,37,1,0,0,1,2,0,4,4,2,4
+1958 FIFA World Cup Sweden ™,2-1,Group 1,17 Jun 1958,Match 39,Czechoslovakia,Northern Ireland,2,1,1,0,39,1,1,0,1,2,1,4,8,3,8
+1958 FIFA World Cup Sweden ™,2-1,Group 3,17 Jun 1958,Match 33,Hungary,Wales,2,1,1,0,33,0,1,0,1,1,1,2,6,2,2
+1958 FIFA World Cup Sweden ™,1-0,Quarter-finals,19 Jun 1958,Match 27,Wales,Brazil,1,0,1,0,27,2,0,0,1,0,0,5,2,0,2
+1958 FIFA World Cup Sweden ™,1-0,Quarter-finals,19 Jun 1958,Match 28,Yugoslavia,Germany FR,1,0,1,0,28,1,1,0,1,0,0,7,7,7,7
+2002 FIFA World Cup Korea/Japan ™,1-2,Quarter-finals,21 Jun 2002,Match 57,Brazil,England,1,2,0,1,57,2,4,1,0,0,0,5,13,1,7
+2002 FIFA World Cup Korea/Japan ™,1-0,Quarter-finals,21 Jun 2002,Match 58,USA,Germany,1,0,1,0,58,3,2,0,1,0,1,12,7,1,5
+2002 FIFA World Cup Korea/Japan ™,0-1,Quarter-finals,22 Jun 2002,Match 60,Turkey,Senegal,0,1,0,1,60,2,2,1,0,0,1,7,6,6,2
+2002 FIFA World Cup Korea/Japan ™,0-0,Quarter-finals,22 Jun 2002,Match 59,Korea Republic,Spain,0,0,0,0,59,3,3,0,0,0,0,10,6,10,3
+1986 FIFA World Cup Mexico ™,1-0,Round of 16,16 Jun 1986,Match 39,Uruguay,Argentina,1,0,1,0,39,2,0,0,1,0,1,6,2,4,2
+1986 FIFA World Cup Mexico ™,4-0,Round of 16,16 Jun 1986,Match 40,Poland,Brazil,4,0,1,0,40,3,1,0,1,0,1,5,1,0,0
+1986 FIFA World Cup Mexico ™,0-2,Round of 16,17 Jun 1986,Match 41,France,Italy,0,2,0,1,41,1,2,1,0,0,0,5,5,5,1
+1986 FIFA World Cup Mexico ™,0-1,Round of 16,17 Jun 1986,Match 42,Germany FR,Morocco,0,1,0,1,42,1,1,1,0,0,1,3,3,3,3
+1998 FIFA World Cup France ™,3-2,Quarter-finals,03 Jul 1998,Match 58,Denmark,Brazil,3,2,1,0,58,3,2,0,1,1,1,10,7,7,6
+1998 FIFA World Cup France ™,2-1,Quarter-finals,04 Jul 1998,Match 60,Argentina,Netherlands,2,1,1,0,60,2,3,0,1,0,0,9,9,4,2
+1998 FIFA World Cup France ™,0-3,Quarter-finals,04 Jul 1998,Match 59,Croatia,Germany,0,3,0,1,59,3,3,1,0,0,1,8,5,4,3
+1998 FIFA World Cup France ™,1-1,Semi-finals,07 Jul 1998,Match 61,Netherlands,Brazil,1,1,0,0,61,4,3,0,0,1,0,13,11,10,6
+1998 FIFA World Cup France ™,2-1,Semi-finals,08 Jul 1998,Match 62,Croatia,France,2,1,1,0,62,4,4,0,1,0,1,10,8,2,3
+1970 FIFA World Cup Mexico ™,4-1,Quarter-finals,14 Jun 1970,Match 26,Mexico,Italy,4,1,1,0,26,1,2,0,1,0,0,1,5,0,0
+1970 FIFA World Cup Mexico ™,3-2,Quarter-finals,14 Jun 1970,Match 28,England,Germany FR,3,2,1,0,28,3,2,0,1,0,1,10,2,10,0
+1970 FIFA World Cup Mexico ™,4-2,Quarter-finals,14 Jun 1970,Match 27,Peru,Brazil,4,2,1,0,27,3,2,0,1,0,1,8,7,7,4
+1970 FIFA World Cup Mexico ™,1-0,Quarter-finals,14 Jun 1970,Match 25,Soviet Union,Uruguay,1,0,1,0,25,1,2,0,1,1,0,2,6,0,4
+1982 FIFA World Cup Spain ™,0-1,Group 5,24 Jun 1982,Match 33,Yugoslavia,Honduras,0,1,0,1,33,0,0,1,0,0,1,2,1,2,1
+1982 FIFA World Cup Spain ™,1-0,Group 2,25 Jun 1982,Match 34,Austria,Germany FR,1,0,1,0,34,1,2,0,1,1,0,5,3,5,0
+1982 FIFA World Cup Spain ™,1-0,Group 4,25 Jun 1982,Match 35,Kuwait,England,1,0,1,0,35,2,0,0,1,0,1,5,2,3,2
+1982 FIFA World Cup Spain ™,1-0,Group 5,25 Jun 1982,Match 36,Spain,Northern Ireland,1,0,1,0,36,0,1,0,1,0,0,1,3,1,3
+1954 FIFA World Cup Switzerland ™,3-2,Final,04 Jul 1954,Match 24,Hungary,Germany FR,3,2,1,0,24,4,4,0,1,1,0,22,25,20,16
+1974 FIFA World Cup Germany ™,1-2,Group A,30 Jun 1974,Match 30,Brazil,Argentina,1,2,0,1,30,1,2,1,0,2,0,7,4,7,0
+1974 FIFA World Cup Germany ™,2-1,Group B,30 Jun 1974,Match 32,Yugoslavia,Poland,2,1,1,0,32,4,1,0,1,0,1,13,10,5,1
+1974 FIFA World Cup Germany ™,0-2,Group A,30 Jun 1974,Match 29,Netherlands,German DR,0,2,0,1,29,2,3,1,0,1,0,4,10,1,4
+1974 FIFA World Cup Germany ™,4-2,Group B,30 Jun 1974,Match 31,Sweden,Germany FR,4,2,1,0,31,3,1,0,1,1,1,6,3,0,0
+1974 FIFA World Cup Germany ™,0-1,Group B,03 Jul 1974,Match 35,Germany FR,Poland,0,1,0,1,35,5,4,1,0,0,1,15,10,7,4
+1950 FIFA World Cup Brazil ™,1-0,Group 2,29 Jun 1950,Match 10,England,USA,1,0,1,0,10,0,1,0,1,1,0,1,2,1,0
+1950 FIFA World Cup Brazil ™,2-0,Group 1,01 Jul 1950,Match 11,Yugoslavia,Brazil,2,0,1,0,11,1,2,0,1,0,0,6,7,2,4
+1950 FIFA World Cup Brazil ™,1-0,Group 2,02 Jul 1950,Match 12,England,Spain,1,0,1,0,12,2,1,0,1,0,1,5,2,3,0
+1950 FIFA World Cup Brazil ™,2-0,Group 3,02 Jul 1950,Match 13,Paraguay,Italy,2,0,1,0,13,0,0,0,1,1,0,2,2,2,2
+1950 FIFA World Cup Brazil ™,8-0,Group 4,02 Jul 1950,Match 16,Bolivia,Uruguay,8,0,1,0,16,0,0,0,1,0,0,0,0,0,0
+1934 FIFA World Cup Italy ™,7-1,Preliminary round,27 May 1934,Match 7,USA,Italy,7,1,1,0,7,0,0,0,1,0,0,0,0,0,0
+1934 FIFA World Cup Italy ™,2-1,Preliminary round,27 May 1934,Match 8,Romania,Czechoslovakia,2,1,1,0,8,0,0,0,1,0,0,0,0,0,0
+1934 FIFA World Cup Italy ™,3-2,Quarter-finals,31 May 1934,Match 9,Switzerland,Czechoslovakia,3,2,1,0,9,1,1,0,1,0,0,2,3,2,3
+1934 FIFA World Cup Italy ™,2-1,Quarter-finals,31 May 1934,Match 10,Sweden,Germany,2,1,1,0,10,1,1,0,1,0,0,5,3,5,3
+1930 FIFA World Cup Uruguay ™,3-0,Group 1,16 Jul 1930,Match 6,Mexico,Chile,3,0,1,0,6,0,0,0,1,0,1,0,1,0,1
+1930 FIFA World Cup Uruguay ™,4-0,Group 2,17 Jul 1930,Match 7,Bolivia,Yugoslavia,4,0,1,0,7,1,0,0,1,0,0,2,0,2,0
+1930 FIFA World Cup Uruguay ™,3-0,Group 4,17 Jul 1930,Match 8,Paraguay,USA,3,0,1,0,8,1,0,0,1,0,0,3,0,0,0
+1930 FIFA World Cup Uruguay ™,1-0,Group 3,18 Jul 1930,Match 9,Peru,Uruguay,1,0,1,0,9,0,0,0,1,0,1,0,1,0,1
+1930 FIFA World Cup Uruguay ™,1-0,Group 1,19 Jul 1930,Match 10,France,Chile,1,0,1,0,10,1,1,0,1,0,1,3,4,0,4
+1966 FIFA World Cup England ™,1-0,Quarter-finals,23 Jul 1966,Match 25,Argentina,England,1,0,1,0,25,2,2,0,1,0,0,4,4,0,2
+1966 FIFA World Cup England ™,4-0,Quarter-finals,23 Jul 1966,Match 26,Uruguay,Germany FR,4,0,1,0,26,2,1,0,1,0,0,7,2,2,2
+1966 FIFA World Cup England ™,2-1,Quarter-finals,23 Jul 1966,Match 27,Hungary,Soviet Union,2,1,1,0,27,3,2,0,1,0,1,6,7,2,7
+1966 FIFA World Cup England ™,5-3,Quarter-finals,23 Jul 1966,Match 28,Korea DPR,Portugal,5,3,1,0,28,3,1,0,1,0,1,9,2,6,1
+1966 FIFA World Cup England ™,2-1,Semi-finals,25 Jul 1966,Match 29,Soviet Union,Germany FR,2,1,1,0,29,3,4,0,1,0,0,11,8,2,4
+1938 FIFA World Cup France ™,2-0,Quarter-finals,12 Jun 1938,Match 11,Switzerland,Hungary,2,0,1,0,11,1,1,0,1,0,0,6,5,0,5
+1938 FIFA World Cup France ™,8-0,Quarter-finals,12 Jun 1938,Match 12,Cuba,Sweden,8,0,1,0,12,0,1,0,1,0,0,0,5,0,5
+1938 FIFA World Cup France ™,3-1,Quarter-finals,12 Jun 1938,Match 13,France,Italy,3,1,1,0,13,1,1,0,1,0,0,2,3,2,3
+1938 FIFA World Cup France ™,2-1,Quarter-finals,14 Jun 1938,Match 14,Czechoslovakia,Brazil,2,1,1,0,14,1,1,0,1,0,0,7,4,7,1
+1962 FIFA World Cup Chile ™,1-0,Quarter-finals,10 Jun 1962,Match 28,Hungary,Czechoslovakia,1,0,1,0,28,1,2,0,1,1,0,2,8,1,8
+1962 FIFA World Cup Chile ™,1-0,Quarter-finals,10 Jun 1962,Match 26,Germany FR,Yugoslavia,1,0,1,0,26,2,2,0,1,1,0,8,4,3,2
+1962 FIFA World Cup Chile ™,3-1,Semi-finals,13 Jun 1962,Match 30,Yugoslavia,Czechoslovakia,3,1,1,0,30,2,3,0,1,1,1,3,9,1,3
+1962 FIFA World Cup Chile ™,4-2,Semi-finals,13 Jun 1962,Match 29,Chile,Brazil,4,2,1,0,29,3,3,0,1,0,1,7,7,5,5
+1958 FIFA World Cup Sweden ™,2-0,Quarter-finals,19 Jun 1958,Match 25,Soviet Union,Sweden,2,0,1,0,25,2,1,0,1,0,1,5,4,2,2
+1958 FIFA World Cup Sweden ™,4-0,Quarter-finals,19 Jun 1958,Match 26,Northern Ireland,France,4,0,1,0,26,2,1,0,1,1,1,11,4,11,3
+1958 FIFA World Cup Sweden ™,3-1,Semi-finals,24 Jun 1958,Match 30,Germany FR,Sweden,3,1,1,0,30,3,2,0,1,0,0,7,8,2,7
+1958 FIFA World Cup Sweden ™,5-2,Semi-finals,24 Jun 1958,Match 29,France,Brazil,5,2,1,0,29,3,3,0,1,0,1,6,15,0,11
+1958 FIFA World Cup Sweden ™,6-3,Match for third place,28 Jun 1958,Match 31,Germany FR,France,6,3,1,0,31,3,2,0,1,2,1,17,9,13,8
+2002 FIFA World Cup Korea/Japan ™,1-0,Semi-finals,25 Jun 2002,Match 61,Korea Republic,Germany,1,0,1,0,61,4,3,0,1,0,0,13,6,1,3
+2002 FIFA World Cup Korea/Japan ™,1-0,Semi-finals,26 Jun 2002,Match 62,Turkey,Brazil,1,0,1,0,62,5,3,0,1,0,1,15,7,9,2
+2002 FIFA World Cup Korea/Japan ™,2-3,Third place,29 Jun 2002,Match 63,Turkey,Korea Republic,2,3,0,1,63,3,3,1,0,1,2,6,7,3,2
+2002 FIFA World Cup Korea/Japan ™,0-2,Final,30 Jun 2002,Match 64,Brazil,Germany,0,2,0,1,64,5,6,1,0,0,0,14,16,1,9
+1986 FIFA World Cup Mexico ™,3-0,Round of 16,18 Jun 1986,Match 43,Paraguay,England,3,0,1,0,43,1,1,0,1,1,0,3,4,0,3
+1986 FIFA World Cup Mexico ™,1-5,Round of 16,18 Jun 1986,Match 44,Spain,Denmark,1,5,0,1,44,3,2,1,0,0,1,9,5,6,2
+1986 FIFA World Cup Mexico ™,1-1,Quarter-finals,21 Jun 1986,Match 45,France,Brazil,1,1,0,0,45,4,3,0,0,0,0,9,7,0,1
+1986 FIFA World Cup Mexico ™,0-0,Quarter-finals,21 Jun 1986,Match 46,Mexico,Germany FR,0,0,0,0,46,2,3,0,0,1,0,4,6,3,3
+1998 FIFA World Cup France ™,1-2,Match for third place,11 Jul 1998,Match 63,Croatia,Netherlands,1,2,0,1,63,3,4,1,0,0,2,12,9,7,4
+1998 FIFA World Cup France ™,0-3,Final,12 Jul 1998,Match 64,France,Brazil,0,3,0,1,64,4,5,1,0,1,0,14,12,11,4
+1970 FIFA World Cup Mexico ™,3-1,Semi-finals,17 Jun 1970,Match 29,Uruguay,Brazil,3,1,1,0,29,4,2,0,1,0,1,12,3,11,0
+1970 FIFA World Cup Mexico ™,4-3,Semi-finals,17 Jun 1970,Match 30,Germany FR,Italy,4,3,1,0,30,2,4,0,1,0,0,5,13,4,13
+1970 FIFA World Cup Mexico ™,1-0,Match for third place,20 Jun 1970,Match 31,Uruguay,Germany FR,1,0,1,0,31,4,2,0,1,1,2,16,4,16,1
+1970 FIFA World Cup Mexico ™,4-1,Final,21 Jun 1970,Match 32,Italy,Brazil,4,1,1,0,32,5,3,0,1,0,0,15,9,14,8
+1982 FIFA World Cup Spain ™,0-1,Group 4,28 Jun 1982,Match 37,France,Austria,0,1,0,1,37,2,1,1,0,1,1,3,6,0,6
+1982 FIFA World Cup Spain ™,3-0,Group 1,28 Jun 1982,Match 38,Belgium,Poland,3,0,1,0,38,1,2,0,1,0,0,5,3,5,1
+1982 FIFA World Cup Spain ™,2-1,Group 3,29 Jun 1982,Match 39,Argentina,Italy,2,1,1,0,39,0,2,0,1,0,1,2,6,2,4
+1982 FIFA World Cup Spain ™,0-0,Group 2,29 Jun 1982,Match 40,England,Germany FR,0,0,0,0,40,2,3,0,0,1,0,6,6,5,3
+1982 FIFA World Cup Spain ™,2-2,Group 4,01 Jul 1982,Match 41,Northern Ireland,Austria,2,2,0,0,41,2,1,0,0,2,0,3,2,0,1
+1974 FIFA World Cup Germany ™,2-0,Group A,03 Jul 1974,Match 34,Brazil,Netherlands,2,0,1,0,34,4,3,0,1,0,0,12,6,4,2
+1974 FIFA World Cup Germany ™,1-1,Group A,03 Jul 1974,Match 33,German DR,Argentina,1,1,0,0,33,1,2,0,0,3,2,8,4,8,1
+1974 FIFA World Cup Germany ™,2-1,Group B,03 Jul 1974,Match 36,Yugoslavia,Sweden,2,1,1,0,36,1,1,0,1,2,2,5,11,2,2
+1974 FIFA World Cup Germany ™,0-1,Match for third place,06 Jul 1974,Match 37,Poland,Brazil,0,1,0,1,37,3,5,1,0,1,1,6,15,2,7
+1950 FIFA World Cup Brazil ™,2-1,Group 1,02 Jul 1950,Match 14,Mexico,Switzerland,2,1,1,0,14,0,0,0,1,1,2,2,1,2,1
+1950 FIFA World Cup Brazil ™,5-2,Group 2,02 Jul 1950,Match 15,USA,Chile,5,2,1,0,15,0,1,0,1,2,1,0,2,0,1
+1950 FIFA World Cup Brazil ™,2-2,Group 6,09 Jul 1950,Match 17,Spain,Uruguay,2,2,0,0,17,1,3,0,0,0,0,8,6,0,3
+1950 FIFA World Cup Brazil ™,7-1,Group 6,09 Jul 1950,Match 18,Sweden,Brazil,7,1,1,0,18,2,1,0,1,0,0,8,5,2,5
+1950 FIFA World Cup Brazil ™,6-1,Group 6,13 Jul 1950,Match 19,Spain,Brazil,6,1,1,0,19,3,3,0,1,0,0,15,8,9,5
+1934 FIFA World Cup Italy ™,1-1,Quarter-finals,31 May 1934,Match 11,Spain,Italy,1,1,0,0,11,1,1,0,0,0,0,7,3,7,3
+1934 FIFA World Cup Italy ™,2-1,Quarter-finals,31 May 1934,Match 12,Hungary,Austria,2,1,1,0,12,1,1,0,1,0,0,3,4,3,4
+1934 FIFA World Cup Italy ™,1-0,Quarter-finals,01 Jun 1934,Match 13,Spain,Italy,1,0,1,0,13,1,1,0,1,0,0,8,4,8,4
+1934 FIFA World Cup Italy ™,1-0,Semi-finals,03 Jun 1934,Match 14,Austria,Italy,1,0,1,0,14,2,2,0,1,0,0,9,5,8,5
+1934 FIFA World Cup Italy ™,3-1,Semi-finals,03 Jun 1934,Match 15,Germany,Czechoslovakia,3,1,1,0,15,2,2,0,1,0,0,5,7,5,7
+1930 FIFA World Cup Uruguay ™,6-3,Group 1,19 Jul 1930,Match 11,Mexico,Argentina,6,3,1,0,11,1,0,0,1,0,2,1,1,0,1
+1930 FIFA World Cup Uruguay ™,4-0,Group 2,20 Jul 1930,Match 12,Bolivia,Brazil,4,0,1,0,12,0,0,0,1,1,1,1,0,1,0
+1930 FIFA World Cup Uruguay ™,1-0,Group 4,20 Jul 1930,Match 13,Belgium,Paraguay,1,0,1,0,13,0,0,0,1,1,1,0,0,0,0
+1930 FIFA World Cup Uruguay ™,4-0,Group 3,21 Jul 1930,Match 14,Romania,Uruguay,4,0,1,0,14,1,1,0,1,0,0,1,3,0,3
+1930 FIFA World Cup Uruguay ™,3-1,Group 1,22 Jul 1930,Match 15,Chile,Argentina,3,1,1,0,15,2,2,0,1,0,0,7,4,6,0
+1966 FIFA World Cup England ™,2-1,Semi-finals,26 Jul 1966,Match 30,Portugal,England,2,1,1,0,30,3,4,0,1,0,0,5,14,0,11
+1966 FIFA World Cup England ™,2-1,Match for third place,28 Jul 1966,Match 31,Soviet Union,Portugal,2,1,1,0,31,4,4,0,1,1,1,15,9,12,5
+1966 FIFA World Cup England ™,4-2,Final,30 Jul 1966,Match 32,Germany FR,England,4,2,1,0,32,4,4,0,1,0,0,7,13,2,4
+1938 FIFA World Cup France ™,5-1,Semi-finals,16 Jun 1938,Match 15,Sweden,Hungary,5,1,1,0,15,2,1,0,1,0,0,8,8,0,0
+1938 FIFA World Cup France ™,2-1,Semi-finals,16 Jun 1938,Match 16,Brazil,Italy,2,1,1,0,16,2,2,0,1,0,0,5,9,5,9
+1938 FIFA World Cup France ™,4-2,Match for third place,19 Jun 1938,Match 17,Sweden,Brazil,4,2,1,0,17,2,1,0,1,1,1,10,9,10,1
+1938 FIFA World Cup France ™,4-2,Final,19 Jun 1938,Match 18,Hungary,Italy,4,2,1,0,18,3,3,0,1,0,0,7,13,7,5
+1962 FIFA World Cup Chile ™,1-0,Match for third place,16 Jun 1962,Match 31,Yugoslavia,Chile,1,0,1,0,31,3,3,0,1,2,2,9,10,7,4
+1962 FIFA World Cup Chile ™,3-1,Final,17 Jun 1962,Match 32,Czechoslovakia,Brazil,3,1,1,0,32,4,3,0,1,0,1,11,6,9,4
+1958 FIFA World Cup Sweden ™,5-2,Final,29 Jun 1958,Match 32,Sweden,Brazil,5,2,1,0,32,4,4,0,1,0,0,11,10,5,5
+1986 FIFA World Cup Mexico ™,1-1,Quarter-finals,22 Jun 1986,Match 47,Belgium,Spain,1,1,0,0,47,3,2,0,0,1,1,10,9,7,9
+1986 FIFA World Cup Mexico ™,2-1,Quarter-finals,22 Jun 1986,Match 48,England,Argentina,2,1,1,0,48,3,2,0,1,0,1,7,6,4,0
+1986 FIFA World Cup Mexico ™,0-2,Semi-finals,25 Jun 1986,Match 50,Germany FR,France,0,2,0,1,50,3,2,1,0,0,1,8,4,2,3
+1986 FIFA World Cup Mexico ™,2-0,Semi-finals,25 Jun 1986,Match 49,Belgium,Argentina,2,0,1,0,49,4,2,0,1,0,1,9,10,6,10
+1986 FIFA World Cup Mexico ™,4-2,Match for third place,28 Jun 1986,Match 51,Belgium,France,4,2,1,0,51,3,2,0,1,1,2,8,10,2,10
+1982 FIFA World Cup Spain ™,0-1,Group 1,01 Jul 1982,Match 42,Soviet Union,Belgium,0,1,0,1,42,2,1,1,0,1,1,3,6,1,3
+1982 FIFA World Cup Spain ™,1-3,Group 3,02 Jul 1982,Match 43,Brazil,Argentina,1,3,0,1,43,2,3,1,0,2,0,7,10,5,6
+1982 FIFA World Cup Spain ™,2-1,Group 2,02 Jul 1982,Match 44,Spain,Germany FR,2,1,1,0,44,2,1,0,1,1,1,6,3,5,3
+1982 FIFA World Cup Spain ™,4-1,Group 4,04 Jul 1982,Match 45,Northern Ireland,France,4,1,1,0,45,2,1,0,1,1,0,7,4,6,3
+1982 FIFA World Cup Spain ™,0-0,Group 1,04 Jul 1982,Match 46,Soviet Union,Poland,0,0,0,0,46,2,2,0,0,0,1,8,7,5,3
+1974 FIFA World Cup Germany ™,1-2,Final,07 Jul 1974,Match 38,Germany FR,Netherlands,1,2,0,1,38,5,5,1,0,0,1,14,11,4,4
+1950 FIFA World Cup Brazil ™,3-2,Group 6,13 Jul 1950,Match 20,Sweden,Uruguay,3,2,1,0,20,1,1,0,1,0,1,10,6,2,6
+1950 FIFA World Cup Brazil ™,3-1,Group 6,16 Jul 1950,Match 21,Spain,Sweden,3,1,1,0,21,1,3,0,1,2,1,8,9,8,6
+1950 FIFA World Cup Brazil ™,2-1,Group 6,16 Jul 1950,Match 22,Brazil,Uruguay,2,1,1,0,22,2,4,0,1,0,0,13,21,5,15
+1934 FIFA World Cup Italy ™,3-2,Match for third place,07 Jun 1934,Match 16,Austria,Germany,3,2,1,0,16,2,2,0,1,1,1,8,5,8,5
+1934 FIFA World Cup Italy ™,2-1,Final,10 Jun 1934,Match 17,Czechoslovakia,Italy,2,1,1,0,17,3,3,0,1,0,0,10,8,8,8
+1930 FIFA World Cup Uruguay ™,6-1,Semi-finals,26 Jul 1930,Match 16,USA,Argentina,6,1,1,0,16,3,2,0,1,0,0,10,6,9,0
+1930 FIFA World Cup Uruguay ™,6-1,Semi-finals,27 Jul 1930,Match 17,Yugoslavia,Uruguay,6,1,1,0,17,2,2,0,1,0,0,5,6,0,2
+1930 FIFA World Cup Uruguay ™,4-2,Final,30 Jul 1930,Match 18,Argentina,Uruguay,4,2,1,0,18,3,4,0,1,0,0,11,16,6,15
+1986 FIFA World Cup Mexico ™,3-2,Final,29 Jun 1986,Match 52,Germany FR,Argentina,3,2,1,0,52,5,3,0,1,0,1,11,6,6,3
+1982 FIFA World Cup Spain ™,3-2,Group 3,05 Jul 1982,Match 47,Brazil,Italy,3,2,1,0,47,1,4,0,1,0,0,4,13,4,9
+1982 FIFA World Cup Spain ™,0-0,Group 2,05 Jul 1982,Match 48,England,Spain,0,0,0,0,48,1,3,0,0,2,0,4,6,4,3
+1982 FIFA World Cup Spain ™,0-2,Semi-finals,08 Jul 1982,Match 49,Italy,Poland,0,2,0,1,49,2,2,1,0,0,0,8,7,5,7
+1982 FIFA World Cup Spain ™,3-3,Semi-finals,08 Jul 1982,Match 50,France,Germany FR,3,3,0,0,50,3,3,0,0,1,1,8,11,7,10
+1982 FIFA World Cup Spain ™,3-2,Match for third place,10 Jul 1982,Match 51,France,Poland,3,2,1,0,51,2,3,0,1,1,1,8,14,5,13
+1982 FIFA World Cup Spain ™,3-1,Final,11 Jul 1982,Match 52,Germany FR,Italy,3,1,1,0,52,3,3,0,1,0,1,9,11,7,10
